@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mohammed Khalilia</title>
+    <link>scimk.github.io/tags/epilepsy/index.xml</link>
+    <description>Recent content on Mohammed Khalilia</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2016 Mohammed Khalilia</copyright>
+    <atom:link href="/tags/epilepsy/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Epilepsy treatment recommendation</title>
+      <link>/scimk.github.io/project/treatment-recommendation/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/scimk.github.io/project/treatment-recommendation/</guid>
+      <description>&lt;p&gt;The aim is to build a reliable prediction model for predicting the optimal treatment of an epilepsy patient. The model will rely on an individual patient’s past history, and predict the treatment most likely to achieve a positive outcome. We are working with longitudinal data and thus, define index dates for the patients. Data from before the index date serves as input available at decision time, while data from after that point in time allows us to extract outcome values and characterize the treatment.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;scimk.github.io/img/treatment-recommendation.jpg&#34; alt=&#34;alt text&#34; title=&#34;treatment-recommendation&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
