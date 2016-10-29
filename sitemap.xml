@@ -3,7 +3,12 @@
   
   <url>
     <loc>/scimk.github.io/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    <lastmod>2016-10-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scimk.github.io/publication/risk-stratification/</loc>
+    <lastmod>2016-10-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -13,6 +18,11 @@
   
   <url>
     <loc>/scimk.github.io/project/adl-clustering/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scimk.github.io/project/digital-slide-archive/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
@@ -32,8 +42,23 @@
   </url>
   
   <url>
+    <loc>/scimk.github.io/publication/predictive-model-fhir/</loc>
+    <lastmod>2015-10-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scimk.github.io/publication/predictive-model-cloud/</loc>
+    <lastmod>2015-10-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/scimk.github.io/project/predictive-modeling-fhir/</loc>
     <lastmod>2015-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scimk.github.io/publication/improving-rfcm/</loc>
+    <lastmod>2014-10-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>

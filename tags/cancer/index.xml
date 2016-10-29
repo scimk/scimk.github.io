@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mohammed Khalilia</title>
+    <link>scimk.github.io/tags/cancer/index.xml</link>
+    <description>Recent content on Mohammed Khalilia</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2016 Mohammed Khalilia</copyright>
+    <atom:link href="/tags/cancer/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Digital Slide Archive</title>
+      <link>/scimk.github.io/project/digital-slide-archive/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/scimk.github.io/project/digital-slide-archive/</guid>
+      <description>&lt;p&gt;The goal of the ”Advanced Development of an Open-source Platform for Web- based Integrative Digital Image Analysis in Cancer” is to develop open-source integrative technologies to facilitate analysis of data provided by the National Cancer Institute’s The Cancer Genome Atlas (TCGA). Some of my responsibilities include:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Developing annotation capabilities that allow users to markup image data and share and retrieve their markups,&lt;/li&gt;
+&lt;li&gt;Assisting in transforming the current Cancer Digital Slide Archive currently hosted at Emory to an open-source software platform that enables other in- vestigators and institutions to deploy cloud-based infrastructure to manage, share and analyze their own imaging archives,&lt;/li&gt;
+&lt;li&gt;Providing computational image analysis capabilities that enable users to characterize tissues and extract quantitative imaging biomarkers using image analysis algorithms,&lt;/li&gt;
+&lt;li&gt;Developing integrative analysis dashboard to enable users to explore the relationships between quantitative descriptions of image data and clinical or genetic variables.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/dgutman/ADRCPathViewer&#34;&gt;Code at Github&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;scimk.github.io/img/digital-slide-archive.png&#34; alt=&#34;alt text&#34; title=&#34;digital-slide-arhive&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

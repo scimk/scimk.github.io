@@ -7,8 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2016 Mohammed Khalilia</copyright>
-    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Oct 2016 00:00:00 +0000</lastBuildDate>
     <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Risk Stratification of Medicare and Medicaid Patients</title>
+      <link>/scimk.github.io/publication/risk-stratification/</link>
+      <pubDate>Thu, 06 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/scimk.github.io/publication/risk-stratification/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Cloud-based predictive modeling for asthma readmission</title>
@@ -31,6 +40,27 @@
       <description>&lt;p&gt;Stratification is a valuable technique for providing an insight on the structure of the patient population based on some features such as Activity of Daily Living (ADL) scores. Grouping patients can play an important role in designing clinical trials or improving care delivery. In this paper, we present a method for stratifying patients based on their ADL scores. Every patient is represented by a time series consisting of ADL scores recorded over a period of up to two years. This approach relies on Dynamic Time Warping (DTW) technique to measure the similarity between two time series and then using Relational Self-Organizing Maps (RSOM) to discover patient clusters. The analysis was performed on a population of 6,000 patients. Six clusters were discovered: patients with high risk and steady ADL trajectory, low risk and steady trajectory, patients with sudden ADL score jumps, patients with declining ADL score and others with steady inclining trajectory.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;scimk.github.io/img/adl-clustering.jpg&#34; alt=&#34;alt text&#34; title=&#34;adl-clustering&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Digital Slide Archive</title>
+      <link>/scimk.github.io/project/digital-slide-archive/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/scimk.github.io/project/digital-slide-archive/</guid>
+      <description>&lt;p&gt;The goal of the ”Advanced Development of an Open-source Platform for Web- based Integrative Digital Image Analysis in Cancer” is to develop open-source integrative technologies to facilitate analysis of data provided by the National Cancer Institute’s The Cancer Genome Atlas (TCGA). Some of my responsibilities include:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Developing annotation capabilities that allow users to markup image data and share and retrieve their markups,&lt;/li&gt;
+&lt;li&gt;Assisting in transforming the current Cancer Digital Slide Archive currently hosted at Emory to an open-source software platform that enables other in- vestigators and institutions to deploy cloud-based infrastructure to manage, share and analyze their own imaging archives,&lt;/li&gt;
+&lt;li&gt;Providing computational image analysis capabilities that enable users to characterize tissues and extract quantitative imaging biomarkers using image analysis algorithms,&lt;/li&gt;
+&lt;li&gt;Developing integrative analysis dashboard to enable users to explore the relationships between quantitative descriptions of image data and clinical or genetic variables.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/dgutman/ADRCPathViewer&#34;&gt;Code at Github&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;scimk.github.io/img/digital-slide-archive.png&#34; alt=&#34;alt text&#34; title=&#34;digital-slide-arhive&#34; /&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -59,6 +89,38 @@
     </item>
     
     <item>
+      <title>Clinical Predictive Modeling Development and Deploy- ment through FHIR Web Services</title>
+      <link>/scimk.github.io/publication/predictive-model-fhir/</link>
+      <pubDate>Tue, 06 Oct 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/scimk.github.io/publication/predictive-model-fhir/</guid>
+      <description>
+
+&lt;h1 id=&#34;abstract&#34;&gt;Abstract&lt;/h1&gt;
+
+&lt;p&gt;Clinical predictive modeling involves two challenging tasks: model development and model deployment. In this paper we demonstrate a software architecture for developing and deploying clinical predictive models using web services via the Health Level 7 (HL7) Fast Healthcare Interoperability Resources (FHIR) standard. The services enable model development using electronic health records (EHRs) stored in OMOP CDM databases and model deployment for scoring individual patients through FHIR resources. The MIMIC2 ICU dataset and a synthetic outpatient dataset were transformed into OMOP CDM databases for predictive model development. The resulting predictive models are deployed as FHIR resources, which receive requests of patient information, perform prediction against the deployed predictive model and respond with prediction scores. To assess the practicality of this approach we evaluated the response and prediction time of the FHIR modeling web services. We found the system to be reasonably fast with one second total response time per patient prediction.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Cloud-based Predictive Modeling System and its Application to Asthma Readmission Prediction</title>
+      <link>/scimk.github.io/publication/predictive-model-cloud/</link>
+      <pubDate>Tue, 06 Oct 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/scimk.github.io/publication/predictive-model-cloud/</guid>
+      <description>
+
+&lt;h1 id=&#34;abstract&#34;&gt;Abstract&lt;/h1&gt;
+
+&lt;p&gt;The predictive modeling process is time consuming and requires clinical researchers to handle complex electronic health record (EHR) data in restricted computational environments. To address this problem, we implemented a cloud-based predictive modeling system via a hybrid setup combining a secure private server with the Amazon Web Services (AWS) Elastic MapReduce platform.&lt;/p&gt;
+
+&lt;p&gt;EHR data is preprocessed on a private server and the resulting de-identified event sequences are hosted on AWS. Based on user-specified modeling configurations, an on-demand web service launches a cluster of Elastic Compute 2 (EC2) instances on AWS to perform feature selection and classification algorithms in a distributed fashion. Afterwards, the secure private server aggregates results and displays them via interactive visualization.&lt;/p&gt;
+
+&lt;p&gt;We tested the system on a pediatric asthma readmission task on a de-identified EHR dataset of 2,967 patients. We conduct a larger scale experiment on the CMS Linkable 2008–2010 Medicare Data Entrepreneurs’ Synthetic Public Use File dataset of 2 million patients, which achieves over 25-fold speedup compared to sequential execution.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Clinical predictive model deployment using FHIR web services</title>
       <link>/scimk.github.io/project/predictive-modeling-fhir/</link>
       <pubDate>Sun, 01 Mar 2015 00:00:00 +0000</pubDate>
@@ -67,6 +129,20 @@
       <description>&lt;p&gt;Clinical predictive modeling involves two challenging tasks: model development and model deployment. In this paper we demonstrate a software architecture for developing and deploying clinical predictive models using web services via the Health Level 7 (HL7) Fast Healthcare Interoperability Resources (FHIR) standard. The services enable model development using electronic health records (EHRs) stored in OMOP CDM databases and model deployment for scoring individual patients through FHIR resources. The MIMIC2 ICU dataset and a synthetic outpatient dataset were transformed into OMOP CDM databases for predictive model development. The resulting predictive models are deployed as FHIR resources, which receive requests of patient information, perform prediction against the deployed predictive model and respond with prediction scores. To assess the practicality of this approach we evaluated the response and prediction time of the FHIR modeling web services. We found the system to be reasonably fast with one second total response time per patient prediction.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;scimk.github.io/img/predictive-model-fhir.jpg&#34; alt=&#34;alt text&#34; title=&#34;predictive-model-fhir&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Improvements to the relational fuzzy c-means clustering algorithm</title>
+      <link>/scimk.github.io/publication/improving-rfcm/</link>
+      <pubDate>Mon, 06 Oct 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/scimk.github.io/publication/improving-rfcm/</guid>
+      <description>
+
+&lt;h1 id=&#34;abstract&#34;&gt;Abstract&lt;/h1&gt;
+
+&lt;p&gt;Relational fuzzy c-means (RFCM) is an algorithm for clustering objects represented in a pairwise dissimilarity values in a dissimilarity data matrix D. RFCM is dual to the fuzzy c-means (FCM) object data algorithm when D is a Euclidean matrix. When D is not Euclidean, RFCM can fail to execute if it encounters negative relational distances. To overcome this problem we can Euclideanize the relation D prior to clustering. There are different ways to Euclideanize D such as the β-spread transformation. In this article we compare five methods for Euclideanizing D   to View the MathML source. The quality of View the MathML source for our purpose is judged by the ability of RFCM to discover the apparent cluster structure of the objects underlying the data matrix D  . The subdominant ultrametric transformation is a clear winner, producing much better partitions of View the MathML source than the other four methods. This leads to a new algorithm which we call the improved RFCM (iRFCM).&lt;/p&gt;
 </description>
     </item>
     

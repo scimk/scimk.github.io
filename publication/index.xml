@@ -7,8 +7,63 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2016 Mohammed Khalilia</copyright>
-    <lastBuildDate>Mon, 06 Oct 2014 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Oct 2016 00:00:00 +0000</lastBuildDate>
     <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Risk Stratification of Medicare and Medicaid Patients</title>
+      <link>/scimk.github.io/publication/risk-stratification/</link>
+      <pubDate>Thu, 06 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/scimk.github.io/publication/risk-stratification/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Clinical Predictive Modeling Development and Deploy- ment through FHIR Web Services</title>
+      <link>/scimk.github.io/publication/predictive-model-fhir/</link>
+      <pubDate>Tue, 06 Oct 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/scimk.github.io/publication/predictive-model-fhir/</guid>
+      <description>
+
+&lt;h1 id=&#34;abstract&#34;&gt;Abstract&lt;/h1&gt;
+
+&lt;p&gt;Clinical predictive modeling involves two challenging tasks: model development and model deployment. In this paper we demonstrate a software architecture for developing and deploying clinical predictive models using web services via the Health Level 7 (HL7) Fast Healthcare Interoperability Resources (FHIR) standard. The services enable model development using electronic health records (EHRs) stored in OMOP CDM databases and model deployment for scoring individual patients through FHIR resources. The MIMIC2 ICU dataset and a synthetic outpatient dataset were transformed into OMOP CDM databases for predictive model development. The resulting predictive models are deployed as FHIR resources, which receive requests of patient information, perform prediction against the deployed predictive model and respond with prediction scores. To assess the practicality of this approach we evaluated the response and prediction time of the FHIR modeling web services. We found the system to be reasonably fast with one second total response time per patient prediction.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Cloud-based Predictive Modeling System and its Application to Asthma Readmission Prediction</title>
+      <link>/scimk.github.io/publication/predictive-model-cloud/</link>
+      <pubDate>Tue, 06 Oct 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/scimk.github.io/publication/predictive-model-cloud/</guid>
+      <description>
+
+&lt;h1 id=&#34;abstract&#34;&gt;Abstract&lt;/h1&gt;
+
+&lt;p&gt;The predictive modeling process is time consuming and requires clinical researchers to handle complex electronic health record (EHR) data in restricted computational environments. To address this problem, we implemented a cloud-based predictive modeling system via a hybrid setup combining a secure private server with the Amazon Web Services (AWS) Elastic MapReduce platform.&lt;/p&gt;
+
+&lt;p&gt;EHR data is preprocessed on a private server and the resulting de-identified event sequences are hosted on AWS. Based on user-specified modeling configurations, an on-demand web service launches a cluster of Elastic Compute 2 (EC2) instances on AWS to perform feature selection and classification algorithms in a distributed fashion. Afterwards, the secure private server aggregates results and displays them via interactive visualization.&lt;/p&gt;
+
+&lt;p&gt;We tested the system on a pediatric asthma readmission task on a de-identified EHR dataset of 2,967 patients. We conduct a larger scale experiment on the CMS Linkable 2008–2010 Medicare Data Entrepreneurs’ Synthetic Public Use File dataset of 2 million patients, which achieves over 25-fold speedup compared to sequential execution.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Improvements to the relational fuzzy c-means clustering algorithm</title>
+      <link>/scimk.github.io/publication/improving-rfcm/</link>
+      <pubDate>Mon, 06 Oct 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/scimk.github.io/publication/improving-rfcm/</guid>
+      <description>
+
+&lt;h1 id=&#34;abstract&#34;&gt;Abstract&lt;/h1&gt;
+
+&lt;p&gt;Relational fuzzy c-means (RFCM) is an algorithm for clustering objects represented in a pairwise dissimilarity values in a dissimilarity data matrix D. RFCM is dual to the fuzzy c-means (FCM) object data algorithm when D is a Euclidean matrix. When D is not Euclidean, RFCM can fail to execute if it encounters negative relational distances. To overcome this problem we can Euclideanize the relation D prior to clustering. There are different ways to Euclideanize D such as the β-spread transformation. In this article we compare five methods for Euclideanizing D   to View the MathML source. The quality of View the MathML source for our purpose is judged by the ability of RFCM to discover the apparent cluster structure of the objects underlying the data matrix D  . The subdominant ultrametric transformation is a clear winner, producing much better partitions of View the MathML source than the other four methods. This leads to a new algorithm which we call the improved RFCM (iRFCM).&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Quantifying care coordination using natural language processing and domain-specific ontology</title>
