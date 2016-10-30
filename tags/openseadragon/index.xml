@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mohammed Khalilia</title>
-    <link>scimk.com/tags/openseadragon/index.xml</link>
+    <link>scimk.github.io/tags/openseadragon/index.xml</link>
     <description>Recent content on Mohammed Khalilia</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -11,10 +11,10 @@
     
     <item>
       <title>Digital Slide Archive</title>
-      <link>/scimk.com/project/digital-slide-archive/</link>
+      <link>/scimk.github.io/project/digital-slide-archive/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>/scimk.com/project/digital-slide-archive/</guid>
+      <guid>/scimk.github.io/project/digital-slide-archive/</guid>
       <description>&lt;p&gt;The goal of the ”Advanced Development of an Open-source Platform for Web- based Integrative Digital Image Analysis in Cancer” is to develop open-source integrative technologies to facilitate analysis of data provided by the National Cancer Institute’s The Cancer Genome Atlas (TCGA). Some of my responsibilities include:&lt;/p&gt;
 
 &lt;ul&gt;
@@ -26,7 +26,7 @@
 
 &lt;p&gt;&lt;a href=&#34;https://github.com/dgutman/ADRCPathViewer&#34;&gt;Code at Github&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;scimk.com/img/digital-slide-archive.png&#34; alt=&#34;alt text&#34; title=&#34;digital-slide-arhive&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;scimk.github.io/img/digital-slide-archive.png&#34; alt=&#34;alt text&#34; title=&#34;digital-slide-arhive&#34; /&gt;&lt;/p&gt;
 </description>
     </item>
     

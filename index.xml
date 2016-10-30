@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mohammed Khalilia</title>
-    <link>scimk.com/index.xml</link>
+    <link>scimk.github.io/index.xml</link>
     <description>Recent content on Mohammed Khalilia</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -12,43 +12,43 @@
     
     <item>
       <title>Risk Stratification of Medicare and Medicaid Patients</title>
-      <link>/scimk.com/publication/risk-stratification/</link>
+      <link>/scimk.github.io/publication/risk-stratification/</link>
       <pubDate>Thu, 06 Oct 2016 00:00:00 +0000</pubDate>
       
-      <guid>/scimk.com/publication/risk-stratification/</guid>
+      <guid>/scimk.github.io/publication/risk-stratification/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cloud-based predictive modeling for asthma readmission</title>
-      <link>/scimk.com/project/predictive-model-cloud/</link>
+      <link>/scimk.github.io/project/predictive-model-cloud/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>/scimk.com/project/predictive-model-cloud/</guid>
+      <guid>/scimk.github.io/project/predictive-model-cloud/</guid>
       <description>&lt;p&gt;The predictive modeling process is time consuming and requires clinical researchers to handle complex EHR data in restricted computational environments. To address this problem, we implemented a cloud-based predictive modeling system via a hybrid setup combining a secure private server with the Amazon Web Services (AWS) Elastic MapReduce platform. EHR data is preprocessed on a private server and the resulting event sequences are hosted on AWS. Based on user-specified configurations, an on-demand web service launches a cluster of Elastic Compute 2 (EC2) instances on AWS to perform feature selection and classification algorithms in a distributed fashion. Afterwards, the secure private server aggregates results and displays them via interactive visualizations. We tested the system on an asthma patient readmission task on a de-identified EHR dataset of 2,967 patients. We conduct a larger scale experiment on the CMS Linkable 2008-2010 Medicare Data Entrepreneurs’ Synthetic Public Use File dataset of 2 million patients, which achieves over 25-fold speedup than sequential execution.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;scimk.com/img/predictive-model-cloud.jpg&#34; alt=&#34;alt text&#34; title=&#34;predictive-model-fhir&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;scimk.github.io/img/predictive-model-cloud.jpg&#34; alt=&#34;alt text&#34; title=&#34;predictive-model-fhir&#34; /&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Clustering patients using activity of daily living scores</title>
-      <link>/scimk.com/project/adl-clustering/</link>
+      <link>/scimk.github.io/project/adl-clustering/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>/scimk.com/project/adl-clustering/</guid>
+      <guid>/scimk.github.io/project/adl-clustering/</guid>
       <description>&lt;p&gt;Stratification is a valuable technique for providing an insight on the structure of the patient population based on some features such as Activity of Daily Living (ADL) scores. Grouping patients can play an important role in designing clinical trials or improving care delivery. In this paper, we present a method for stratifying patients based on their ADL scores. Every patient is represented by a time series consisting of ADL scores recorded over a period of up to two years. This approach relies on Dynamic Time Warping (DTW) technique to measure the similarity between two time series and then using Relational Self-Organizing Maps (RSOM) to discover patient clusters. The analysis was performed on a population of 6,000 patients. Six clusters were discovered: patients with high risk and steady ADL trajectory, low risk and steady trajectory, patients with sudden ADL score jumps, patients with declining ADL score and others with steady inclining trajectory.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;scimk.com/img/adl-clustering.jpg&#34; alt=&#34;alt text&#34; title=&#34;adl-clustering&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;scimk.github.io/img/adl-clustering.jpg&#34; alt=&#34;alt text&#34; title=&#34;adl-clustering&#34; /&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Digital Slide Archive</title>
-      <link>/scimk.com/project/digital-slide-archive/</link>
+      <link>/scimk.github.io/project/digital-slide-archive/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>/scimk.com/project/digital-slide-archive/</guid>
+      <guid>/scimk.github.io/project/digital-slide-archive/</guid>
       <description>&lt;p&gt;The goal of the ”Advanced Development of an Open-source Platform for Web- based Integrative Digital Image Analysis in Cancer” is to develop open-source integrative technologies to facilitate analysis of data provided by the National Cancer Institute’s The Cancer Genome Atlas (TCGA). Some of my responsibilities include:&lt;/p&gt;
 
 &lt;ul&gt;
@@ -60,40 +60,40 @@
 
 &lt;p&gt;&lt;a href=&#34;https://github.com/dgutman/ADRCPathViewer&#34;&gt;Code at Github&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;scimk.com/img/digital-slide-archive.png&#34; alt=&#34;alt text&#34; title=&#34;digital-slide-arhive&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;scimk.github.io/img/digital-slide-archive.png&#34; alt=&#34;alt text&#34; title=&#34;digital-slide-arhive&#34; /&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Epilepsy treatment recommendation</title>
-      <link>/scimk.com/project/treatment-recommendation/</link>
+      <link>/scimk.github.io/project/treatment-recommendation/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>/scimk.com/project/treatment-recommendation/</guid>
+      <guid>/scimk.github.io/project/treatment-recommendation/</guid>
       <description>&lt;p&gt;The aim is to build a reliable prediction model for predicting the optimal treatment of an epilepsy patient. The model will rely on an individual patient’s past history, and predict the treatment most likely to achieve a positive outcome. We are working with longitudinal data and thus, define index dates for the patients. Data from before the index date serves as input available at decision time, while data from after that point in time allows us to extract outcome values and characterize the treatment.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;scimk.com/img/treatment-recommendation.jpg&#34; alt=&#34;alt text&#34; title=&#34;treatment-recommendation&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;scimk.github.io/img/treatment-recommendation.jpg&#34; alt=&#34;alt text&#34; title=&#34;treatment-recommendation&#34; /&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Quantifying care coordination</title>
-      <link>/scimk.com/project/care-coordination/</link>
+      <link>/scimk.github.io/project/care-coordination/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>/scimk.com/project/care-coordination/</guid>
+      <guid>/scimk.github.io/project/care-coordination/</guid>
       <description>&lt;p&gt;This research identifies specific care coordination activities used by Aging In Place (AIP) nurse care coordinators and home healthcare nurses when coordinating care for older community dwelling adults and suggests a method to quantify care coordination. A care coordination ontology was built based on activities extracted from 11,038 notes labeled with the Omaha Case Management category. From the parsed narrative notes of every patient, we mapped the extracted activities to the ontology, from which we computed problem profiles and quantified care coordination for all patients. We compared two groups of patients: Aging in Place who received enhanced care coordination (n=217) and Home Healthcare (HHC) who received traditional care (n=691) using 128,135 narratives notes. Patients were tracked from the time they were admitted to AIP or HHC until they were discharged. We found that patients in AIP received a higher dose of care coordination than HHC in most Omaha problems, with larger doses being given in AIP than in HHC in all four Omaha categories. “Communicate” and “manage” activities are widely used in care coordination. That confirmed the expert hypothesis that nurse care coordinators spent most of their time communicating about their patients and managing problems. Overall, nurses performed care coordination in both AIP and HHC, but the aggregated dose across Omaha problems and categories is larger in AIP.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;scimk.com/img/care-coordination.jpg&#34; alt=&#34;alt text&#34; title=&#34;care-coordination&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;scimk.github.io/img/care-coordination.jpg&#34; alt=&#34;alt text&#34; title=&#34;care-coordination&#34; /&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Comparing Aging in Place to Home Health Care: Impact of Nurse Care Coordination On Utilization and Costs</title>
-      <link>/scimk.com/publication/aip-vs-hhc/</link>
+      <link>/scimk.github.io/publication/aip-vs-hhc/</link>
       <pubDate>Sun, 01 Nov 2015 00:00:00 +0000</pubDate>
       
-      <guid>/scimk.com/publication/aip-vs-hhc/</guid>
+      <guid>/scimk.github.io/publication/aip-vs-hhc/</guid>
       <description>
 
 &lt;h1 id=&#34;abstract&#34;&gt;Abstract&lt;/h1&gt;
@@ -104,10 +104,10 @@
     
     <item>
       <title>Clinical Predictive Modeling Development and Deploy- ment through FHIR Web Services</title>
-      <link>/scimk.com/publication/predictive-model-fhir/</link>
+      <link>/scimk.github.io/publication/predictive-model-fhir/</link>
       <pubDate>Tue, 06 Oct 2015 00:00:00 +0000</pubDate>
       
-      <guid>/scimk.com/publication/predictive-model-fhir/</guid>
+      <guid>/scimk.github.io/publication/predictive-model-fhir/</guid>
       <description>
 
 &lt;h1 id=&#34;abstract&#34;&gt;Abstract&lt;/h1&gt;
@@ -118,10 +118,10 @@
     
     <item>
       <title>Cloud-based Predictive Modeling System and its Application to Asthma Readmission Prediction</title>
-      <link>/scimk.com/publication/predictive-model-cloud/</link>
+      <link>/scimk.github.io/publication/predictive-model-cloud/</link>
       <pubDate>Tue, 06 Oct 2015 00:00:00 +0000</pubDate>
       
-      <guid>/scimk.com/publication/predictive-model-cloud/</guid>
+      <guid>/scimk.github.io/publication/predictive-model-cloud/</guid>
       <description>
 
 &lt;h1 id=&#34;abstract&#34;&gt;Abstract&lt;/h1&gt;
@@ -136,22 +136,22 @@
     
     <item>
       <title>Clinical predictive model deployment using FHIR web services</title>
-      <link>/scimk.com/project/predictive-modeling-fhir/</link>
+      <link>/scimk.github.io/project/predictive-modeling-fhir/</link>
       <pubDate>Sun, 01 Mar 2015 00:00:00 +0000</pubDate>
       
-      <guid>/scimk.com/project/predictive-modeling-fhir/</guid>
+      <guid>/scimk.github.io/project/predictive-modeling-fhir/</guid>
       <description>&lt;p&gt;Clinical predictive modeling involves two challenging tasks: model development and model deployment. In this paper we demonstrate a software architecture for developing and deploying clinical predictive models using web services via the Health Level 7 (HL7) Fast Healthcare Interoperability Resources (FHIR) standard. The services enable model development using electronic health records (EHRs) stored in OMOP CDM databases and model deployment for scoring individual patients through FHIR resources. The MIMIC2 ICU dataset and a synthetic outpatient dataset were transformed into OMOP CDM databases for predictive model development. The resulting predictive models are deployed as FHIR resources, which receive requests of patient information, perform prediction against the deployed predictive model and respond with prediction scores. To assess the practicality of this approach we evaluated the response and prediction time of the FHIR modeling web services. We found the system to be reasonably fast with one second total response time per patient prediction.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;scimk.com/img/predictive-model-fhir.jpg&#34; alt=&#34;alt text&#34; title=&#34;predictive-model-fhir&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;scimk.github.io/img/predictive-model-fhir.jpg&#34; alt=&#34;alt text&#34; title=&#34;predictive-model-fhir&#34; /&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Relational Fuzzy Self-Organizing Maps for Cluster Visualization and Summarization</title>
-      <link>/scimk.com/publication/frsom/</link>
+      <link>/scimk.github.io/publication/frsom/</link>
       <pubDate>Mon, 01 Dec 2014 00:00:00 +0000</pubDate>
       
-      <guid>/scimk.com/publication/frsom/</guid>
+      <guid>/scimk.github.io/publication/frsom/</guid>
       <description>
 
 &lt;h1 id=&#34;abstract&#34;&gt;Abstract&lt;/h1&gt;
@@ -162,10 +162,10 @@
     
     <item>
       <title>Improvements to the relational fuzzy c-means clustering algorithm</title>
-      <link>/scimk.com/publication/improving-rfcm/</link>
+      <link>/scimk.github.io/publication/improving-rfcm/</link>
       <pubDate>Mon, 06 Oct 2014 00:00:00 +0000</pubDate>
       
-      <guid>/scimk.com/publication/improving-rfcm/</guid>
+      <guid>/scimk.github.io/publication/improving-rfcm/</guid>
       <description>
 
 &lt;h1 id=&#34;abstract&#34;&gt;Abstract&lt;/h1&gt;
@@ -176,20 +176,20 @@
     
     <item>
       <title>Quantifying care coordination using natural language processing and domain-specific ontology</title>
-      <link>/scimk.com/publication/care-coordination/</link>
+      <link>/scimk.github.io/publication/care-coordination/</link>
       <pubDate>Mon, 06 Oct 2014 00:00:00 +0000</pubDate>
       
-      <guid>/scimk.com/publication/care-coordination/</guid>
+      <guid>/scimk.github.io/publication/care-coordination/</guid>
       <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Topology preservation in fuzzy self-organizing maps</title>
-      <link>/scimk.com/publication/som-topology/</link>
+      <link>/scimk.github.io/publication/som-topology/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
       
-      <guid>/scimk.com/publication/som-topology/</guid>
+      <guid>/scimk.github.io/publication/som-topology/</guid>
       <description>
 
 &lt;h1 id=&#34;abstract&#34;&gt;Abstract&lt;/h1&gt;
@@ -200,10 +200,10 @@
     
     <item>
       <title>Fuzzy relational self-organizing maps</title>
-      <link>/scimk.com/publication/first-frsom/</link>
+      <link>/scimk.github.io/publication/first-frsom/</link>
       <pubDate>Sun, 10 Jun 2012 00:00:00 +0000</pubDate>
       
-      <guid>/scimk.com/publication/first-frsom/</guid>
+      <guid>/scimk.github.io/publication/first-frsom/</guid>
       <description>
 
 &lt;h1 id=&#34;abstract&#34;&gt;Abstract&lt;/h1&gt;
