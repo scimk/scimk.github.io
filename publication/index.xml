@@ -20,6 +20,20 @@
     </item>
     
     <item>
+      <title>Comparing Aging in Place to Home Health Care: Impact of Nurse Care Coordination On Utilization and Costs</title>
+      <link>/scimk.github.io/publication/aip-vs-hhc/</link>
+      <pubDate>Sun, 01 Nov 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/scimk.github.io/publication/aip-vs-hhc/</guid>
+      <description>
+
+&lt;h1 id=&#34;abstract&#34;&gt;Abstract&lt;/h1&gt;
+
+&lt;p&gt;For the chronically ill, care delivered in the home is a lifeline to the self-management of chronic conditions. Currently, 90% of Americans age 75 and older have at least one chronic medical condition, and 20% have five or more chronic illnesses (AARP, 2009). The cost of caring for people with five or more chronic illnesses is roughly 17 times higher than for those without chronic illness (Bodenheimer &amp;amp; Berry-Millett, 2009). The complexity of the health care system makes it nearly impossible for patients and families to understand how various services work together, identify what legitimate and feasible demands can be made of providers, and learn how to obtain medical information in a timely and efficient manner (Anderson &amp;amp; Horvath, 2004; Smith, Saunders, Stuckhardt, &amp;amp; McGinnis, 2012). Care coordination is increasingly seen as a way to help patients, families, or other support networks manage medical conditions, and social and psychological problems more effectively (Yang &amp;amp; Meiners, 2014). The impact of care coordination on utilization and cost outcomes in older adults living in the community and receiving long-term nurse care coordination through Aging in Place (AIP) or routine care through home health care (HHC) is reported.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Clinical Predictive Modeling Development and Deploy- ment through FHIR Web Services</title>
       <link>/scimk.github.io/publication/predictive-model-fhir/</link>
       <pubDate>Tue, 06 Oct 2015 00:00:00 +0000</pubDate>
@@ -52,6 +66,20 @@
     </item>
     
     <item>
+      <title>Relational Fuzzy Self-Organizing Maps for Cluster Visualization and Summarization</title>
+      <link>/scimk.github.io/publication/frsom/</link>
+      <pubDate>Mon, 01 Dec 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/scimk.github.io/publication/frsom/</guid>
+      <description>
+
+&lt;h1 id=&#34;abstract&#34;&gt;Abstract&lt;/h1&gt;
+
+&lt;p&gt;The notion of Best-Matching Unit (BMU) in the proposed Fuzzy Relational Self-Organizing (FRSOM) algorithm is replaced by a membership function where every neuron has a certain degree of matching to an input object. The FRSOM is an extension of the relational self-organizing map. In the proposed FRSOM we incorporate a monotonically increasing fuzzifier and a monotonically decreasing neighborhood kernel. Initially, FRSOM assigns winning neurons. However, as time progresses adjacent neurons begin communicating and sharing information about the stimulus received. The amount of information being shared at a given time is governed by the fuzzifier and the number of neurons sharing information is controlled by the neighborhood kernel. Additionally, in this paper we show that FRSOM is the relational dual of Fuzzy Batch SOM (FBSOM) followed by experimental results comparing both FBSOM and FRSOM on synthetic datasets. Then we will demonstrate the visualization and summarization capabilities of FRSOM on two real relational datasets, Gene Ontology and a patient data consisting of Activity of Daily Living score trajectories.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Improvements to the relational fuzzy c-means clustering algorithm</title>
       <link>/scimk.github.io/publication/improving-rfcm/</link>
       <pubDate>Mon, 06 Oct 2014 00:00:00 +0000</pubDate>
@@ -72,6 +100,48 @@
       
       <guid>/scimk.github.io/publication/care-coordination/</guid>
       <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Topology preservation in fuzzy self-organizing maps</title>
+      <link>/scimk.github.io/publication/som-topology/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/scimk.github.io/publication/som-topology/</guid>
+      <description>
+
+&lt;h1 id=&#34;abstract&#34;&gt;Abstract&lt;/h1&gt;
+
+&lt;p&gt;One of the important properties of SOM is its topology preservation of the input data. The topographic error is one of the techniques proposed to measure how well the continuity of the map is preserved. However, this topographic error is only applicable to the crisp SOM algorithms and cannot be adapted to the fuzzy SOM (FSOM) since FSOM does not assign a unique winning neuron to the input patterns. In this paper, we propose a new technique to measure the topology preservation of the FSOM algorithms. The new measure relies on the distribution of the membership values on the map. A low topographic error is achieved when neighboring neurons share similar or same membership values to a given input pattern.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Fuzzy relational self-organizing maps</title>
+      <link>/scimk.github.io/publication/first-frsom/</link>
+      <pubDate>Sun, 10 Jun 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/scimk.github.io/publication/first-frsom/</guid>
+      <description>
+
+&lt;h1 id=&#34;abstract&#34;&gt;Abstract&lt;/h1&gt;
+
+&lt;p&gt;In this paper we propose a novel fuzzy relational self-organizing map algorithm (FRSOM) that can be used to map a set of n objects described by pairwise dissimilarity values to a two dimensional lattice structure. FRSOM generates a fuzzy membership matrix replacing the crisp best-matching unit matrix in the regular relational SOM (RSOM). We found that FRSOM discovers hard to find substructures in the data that present a challenge to the crisp relational SOM. Furthermore, we observed a triple relationship that seems to exist among the number of data points in the training data, map size and the fuzzifier m. We compare FRSOM and RSOM using several synthetic datasets.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Improving disease prediction using ICD-9 ontological features</title>
+      <link>/scimk.github.io/publication/disease-prediction-ontology/</link>
+      <pubDate>Mon, 27 Jun 2011 00:00:00 +0000</pubDate>
+      
+      <guid>/scimk.github.io/publication/disease-prediction-ontology/</guid>
+      <description>
+
+&lt;h1 id=&#34;abstract&#34;&gt;Abstract&lt;/h1&gt;
+
+&lt;p&gt;Disease prediction has become important in a variety of applications such as health insurance, tailored health communication and public health. Disease prediction is usually performed using publically available datasets such as HCUP, NHANES or MDS that were initially designed for health reporting or health cost evaluation but not for disease prediction. In these datasets, medical diagnoses are traditionally arranged in &amp;ldquo;diagnose-related groups&amp;rdquo; (DRGs). In this paper we compare the disease prediction based on crisp DRG features with the results obtained employing a new set of features that consist of the fuzzy membership of patient diagnoses in the DRG groups. The fuzzy membership features were computed using an ICD-9 ontological similarity approach. The prediction results obtained on a subset of 9,000 patients from the 2005 HCUP data representing three diseases (diabetes, atherosclerosis and hypertension) using two classifiers (random forest and SVM trained on 21,000 samples) show significant (about 10%) improvement as measured by the area under the ROC curve (AROC).&lt;/p&gt;
 </description>
     </item>
     
