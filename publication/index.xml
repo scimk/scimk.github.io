@@ -7,16 +7,33 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2016 Mohammed Khalilia</copyright>
-    <lastBuildDate>Thu, 06 Oct 2016 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 01 Apr 2017 00:00:00 +0000</lastBuildDate>
     <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Risk Stratification of Medicare and Medicaid Patients</title>
+      <title>The Digital Slide Archive: A Software Platform for Management, Integration and Analysis of Histology for Cancer Research</title>
+      <link>/scimk.github.io/publication/dsa/</link>
+      <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/scimk.github.io/publication/dsa/</guid>
+      <description>
+
+&lt;h1 id=&#34;abstract&#34;&gt;Abstract&lt;/h1&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Identifying Patients at Risk of High Healthcare Utilization</title>
       <link>/scimk.github.io/publication/risk-stratification/</link>
-      <pubDate>Thu, 06 Oct 2016 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate>
       
       <guid>/scimk.github.io/publication/risk-stratification/</guid>
-      <description></description>
+      <description>
+
+&lt;h1 id=&#34;abstract&#34;&gt;Abstract&lt;/h1&gt;
+
+&lt;p&gt;Objective. To develop a systematic and reproducible way to identify patients at increased risk for higher healthcare costs. Methods. Medical records were analyzed for 9,581 adults who were primary care patients in the University of Missouri Health System and who were enrolled in Medicare or Medicaid. Patients were categorized into one of four risk tiers as of October 1, 2013, and the four tiers were compared on demographic characteristics, number of healthcare episodes, and healthcare charges in the year before and the year after cohort formation. Results. The mean number of healthcare episodes and the sum of healthcare charges in the year following cohort formation were higher for patients in the higher-risk tiers. Conclusions. Retrospective information that is easily extracted from medical records can be used to create risk tiers that provide highly useful information about the prospective risk of healthcare utilization and costs.&lt;/p&gt;
+</description>
     </item>
     
     <item>
