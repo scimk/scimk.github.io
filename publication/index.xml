@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications on Mohammed Khalilia</title>
-    <link>scimk.com/publication/</link>
+    <link>scimk.github.io/publication/</link>
     <description>Recent content in Publications on Mohammed Khalilia</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Mohammed Khalilia</copyright>
     <lastBuildDate>Sat, 01 Apr 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="scimk.com/publication/" rel="self" type="application/rss+xml" />
+    <atom:link href="scimk.github.io/publication/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>The Digital Slide Archive: A Software Platform for Management, Integration and Analysis of Histology for Cancer Research</title>
-      <link>scimk.com/publication/dsa/</link>
+      <link>scimk.github.io/publication/dsa/</link>
       <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>scimk.com/publication/dsa/</guid>
+      <guid>scimk.github.io/publication/dsa/</guid>
       <description>
 
 &lt;h1 id=&#34;abstract&#34;&gt;Abstract&lt;/h1&gt;
@@ -24,10 +24,10 @@
     
     <item>
       <title>Identifying Patients at Risk of High Healthcare Utilization</title>
-      <link>scimk.com/publication/risk-stratification/</link>
+      <link>scimk.github.io/publication/risk-stratification/</link>
       <pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate>
       
-      <guid>scimk.com/publication/risk-stratification/</guid>
+      <guid>scimk.github.io/publication/risk-stratification/</guid>
       <description>
 
 &lt;h1 id=&#34;abstract&#34;&gt;Abstract&lt;/h1&gt;
@@ -38,10 +38,10 @@
     
     <item>
       <title>Comparing Aging in Place to Home Health Care: Impact of Nurse Care Coordination On Utilization and Costs</title>
-      <link>scimk.com/publication/aip-vs-hhc/</link>
+      <link>scimk.github.io/publication/aip-vs-hhc/</link>
       <pubDate>Sun, 01 Nov 2015 00:00:00 +0000</pubDate>
       
-      <guid>scimk.com/publication/aip-vs-hhc/</guid>
+      <guid>scimk.github.io/publication/aip-vs-hhc/</guid>
       <description>
 
 &lt;h1 id=&#34;abstract&#34;&gt;Abstract&lt;/h1&gt;
@@ -52,10 +52,10 @@
     
     <item>
       <title>Clinical Predictive Modeling Development and Deploy- ment through FHIR Web Services</title>
-      <link>scimk.com/publication/predictive-model-fhir/</link>
+      <link>scimk.github.io/publication/predictive-model-fhir/</link>
       <pubDate>Tue, 06 Oct 2015 00:00:00 +0000</pubDate>
       
-      <guid>scimk.com/publication/predictive-model-fhir/</guid>
+      <guid>scimk.github.io/publication/predictive-model-fhir/</guid>
       <description>
 
 &lt;h1 id=&#34;abstract&#34;&gt;Abstract&lt;/h1&gt;
@@ -66,10 +66,10 @@
     
     <item>
       <title>Cloud-based Predictive Modeling System and its Application to Asthma Readmission Prediction</title>
-      <link>scimk.com/publication/predictive-model-cloud/</link>
+      <link>scimk.github.io/publication/predictive-model-cloud/</link>
       <pubDate>Tue, 06 Oct 2015 00:00:00 +0000</pubDate>
       
-      <guid>scimk.com/publication/predictive-model-cloud/</guid>
+      <guid>scimk.github.io/publication/predictive-model-cloud/</guid>
       <description>
 
 &lt;h1 id=&#34;abstract&#34;&gt;Abstract&lt;/h1&gt;
@@ -84,10 +84,10 @@
     
     <item>
       <title>Relational Fuzzy Self-Organizing Maps for Cluster Visualization and Summarization</title>
-      <link>scimk.com/publication/frsom/</link>
+      <link>scimk.github.io/publication/frsom/</link>
       <pubDate>Mon, 01 Dec 2014 00:00:00 +0000</pubDate>
       
-      <guid>scimk.com/publication/frsom/</guid>
+      <guid>scimk.github.io/publication/frsom/</guid>
       <description>
 
 &lt;h1 id=&#34;abstract&#34;&gt;Abstract&lt;/h1&gt;
@@ -98,10 +98,10 @@
     
     <item>
       <title>Improvements to the relational fuzzy c-means clustering algorithm</title>
-      <link>scimk.com/publication/improving-rfcm/</link>
+      <link>scimk.github.io/publication/improving-rfcm/</link>
       <pubDate>Mon, 06 Oct 2014 00:00:00 +0000</pubDate>
       
-      <guid>scimk.com/publication/improving-rfcm/</guid>
+      <guid>scimk.github.io/publication/improving-rfcm/</guid>
       <description>
 
 &lt;h1 id=&#34;abstract&#34;&gt;Abstract&lt;/h1&gt;
@@ -112,20 +112,20 @@
     
     <item>
       <title>Quantifying care coordination using natural language processing and domain-specific ontology</title>
-      <link>scimk.com/publication/care-coordination/</link>
+      <link>scimk.github.io/publication/care-coordination/</link>
       <pubDate>Mon, 06 Oct 2014 00:00:00 +0000</pubDate>
       
-      <guid>scimk.com/publication/care-coordination/</guid>
+      <guid>scimk.github.io/publication/care-coordination/</guid>
       <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Topology preservation in fuzzy self-organizing maps</title>
-      <link>scimk.com/publication/som-topology/</link>
+      <link>scimk.github.io/publication/som-topology/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
       
-      <guid>scimk.com/publication/som-topology/</guid>
+      <guid>scimk.github.io/publication/som-topology/</guid>
       <description>
 
 &lt;h1 id=&#34;abstract&#34;&gt;Abstract&lt;/h1&gt;
@@ -136,10 +136,10 @@
     
     <item>
       <title>Fuzzy relational self-organizing maps</title>
-      <link>scimk.com/publication/first-frsom/</link>
+      <link>scimk.github.io/publication/first-frsom/</link>
       <pubDate>Sun, 10 Jun 2012 00:00:00 +0000</pubDate>
       
-      <guid>scimk.com/publication/first-frsom/</guid>
+      <guid>scimk.github.io/publication/first-frsom/</guid>
       <description>
 
 &lt;h1 id=&#34;abstract&#34;&gt;Abstract&lt;/h1&gt;
@@ -150,10 +150,10 @@
     
     <item>
       <title>Improving disease prediction using ICD-9 ontological features</title>
-      <link>scimk.com/publication/disease-prediction-ontology/</link>
+      <link>scimk.github.io/publication/disease-prediction-ontology/</link>
       <pubDate>Mon, 27 Jun 2011 00:00:00 +0000</pubDate>
       
-      <guid>scimk.com/publication/disease-prediction-ontology/</guid>
+      <guid>scimk.github.io/publication/disease-prediction-ontology/</guid>
       <description>
 
 &lt;h1 id=&#34;abstract&#34;&gt;Abstract&lt;/h1&gt;
@@ -164,10 +164,10 @@
     
     <item>
       <title>Predicting disease risks from highly imbalanced data using random forest</title>
-      <link>scimk.com/publication/disease-prediction/</link>
+      <link>scimk.github.io/publication/disease-prediction/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
       
-      <guid>scimk.com/publication/disease-prediction/</guid>
+      <guid>scimk.github.io/publication/disease-prediction/</guid>
       <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
