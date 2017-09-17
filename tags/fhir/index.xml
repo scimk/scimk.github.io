@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Fhir on Mohammed Khalilia</title>
-    <link>scimk.github.io/tags/fhir/</link>
+    <link>http://scimk.com/tags/fhir/</link>
     <description>Recent content in Fhir on Mohammed Khalilia</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Mohammed Khalilia</copyright>
     <lastBuildDate>Sun, 01 Mar 2015 00:00:00 +0000</lastBuildDate>
-    <atom:link href="scimk.github.io/tags/fhir/" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/fhir/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Clinical predictive model deployment using FHIR web services</title>
-      <link>scimk.github.io/project/predictive-modeling-fhir/</link>
+      <link>http://scimk.com/project/predictive-modeling-fhir/</link>
       <pubDate>Sun, 01 Mar 2015 00:00:00 +0000</pubDate>
       
-      <guid>scimk.github.io/project/predictive-modeling-fhir/</guid>
+      <guid>http://scimk.com/project/predictive-modeling-fhir/</guid>
       <description>&lt;p&gt;Clinical predictive modeling involves two challenging tasks: model development and model deployment. In this paper we demonstrate a software architecture for developing and deploying clinical predictive models using web services via the Health Level 7 (HL7) Fast Healthcare Interoperability Resources (FHIR) standard. The services enable model development using electronic health records (EHRs) stored in OMOP CDM databases and model deployment for scoring individual patients through FHIR resources. The MIMIC2 ICU dataset and a synthetic outpatient dataset were transformed into OMOP CDM databases for predictive model development. The resulting predictive models are deployed as FHIR resources, which receive requests of patient information, perform prediction against the deployed predictive model and respond with prediction scores. To assess the practicality of this approach we evaluated the response and prediction time of the FHIR modeling web services. We found the system to be reasonably fast with one second total response time per patient prediction.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;scimk.github.io/img/predictive-model-fhir.jpg&#34; alt=&#34;alt text&#34; title=&#34;predictive-model-fhir&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://scimk.com/img/predictive-model-fhir.jpg&#34; alt=&#34;alt text&#34; title=&#34;predictive-model-fhir&#34; /&gt;&lt;/p&gt;
 </description>
     </item>
     

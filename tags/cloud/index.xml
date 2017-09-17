@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cloud on Mohammed Khalilia</title>
-    <link>scimk.github.io/tags/cloud/</link>
+    <link>http://scimk.com/tags/cloud/</link>
     <description>Recent content in Cloud on Mohammed Khalilia</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Mohammed Khalilia</copyright>
     <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="scimk.github.io/tags/cloud/" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/cloud/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Cloud-based predictive modeling for asthma readmission</title>
-      <link>scimk.github.io/project/predictive-model-cloud/</link>
+      <link>http://scimk.com/project/predictive-model-cloud/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>scimk.github.io/project/predictive-model-cloud/</guid>
+      <guid>http://scimk.com/project/predictive-model-cloud/</guid>
       <description>&lt;p&gt;The predictive modeling process is time consuming and requires clinical researchers to handle complex EHR data in restricted computational environments. To address this problem, we implemented a cloud-based predictive modeling system via a hybrid setup combining a secure private server with the Amazon Web Services (AWS) Elastic MapReduce platform. EHR data is preprocessed on a private server and the resulting event sequences are hosted on AWS. Based on user-specified configurations, an on-demand web service launches a cluster of Elastic Compute 2 (EC2) instances on AWS to perform feature selection and classification algorithms in a distributed fashion. Afterwards, the secure private server aggregates results and displays them via interactive visualizations. We tested the system on an asthma patient readmission task on a de-identified EHR dataset of 2,967 patients. We conduct a larger scale experiment on the CMS Linkable 2008-2010 Medicare Data Entrepreneurs’ Synthetic Public Use File dataset of 2 million patients, which achieves over 25-fold speedup than sequential execution.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;scimk.github.io/img/predictive-model-cloud.jpg&#34; alt=&#34;alt text&#34; title=&#34;predictive-model-fhir&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://scimk.com/img/predictive-model-cloud.jpg&#34; alt=&#34;alt text&#34; title=&#34;predictive-model-fhir&#34; /&gt;&lt;/p&gt;
 </description>
     </item>
     

@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Adl on Mohammed Khalilia</title>
-    <link>scimk.github.io/tags/adl/</link>
+    <link>http://scimk.com/tags/adl/</link>
     <description>Recent content in Adl on Mohammed Khalilia</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Mohammed Khalilia</copyright>
     <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="scimk.github.io/tags/adl/" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/adl/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Clustering patients using activity of daily living scores</title>
-      <link>scimk.github.io/project/adl-clustering/</link>
+      <link>http://scimk.com/project/adl-clustering/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>scimk.github.io/project/adl-clustering/</guid>
+      <guid>http://scimk.com/project/adl-clustering/</guid>
       <description>&lt;p&gt;Stratification is a valuable technique for providing an insight on the structure of the patient population based on some features such as Activity of Daily Living (ADL) scores. Grouping patients can play an important role in designing clinical trials or improving care delivery. In this paper, we present a method for stratifying patients based on their ADL scores. Every patient is represented by a time series consisting of ADL scores recorded over a period of up to two years. This approach relies on Dynamic Time Warping (DTW) technique to measure the similarity between two time series and then using Relational Self-Organizing Maps (RSOM) to discover patient clusters. The analysis was performed on a population of 6,000 patients. Six clusters were discovered: patients with high risk and steady ADL trajectory, low risk and steady trajectory, patients with sudden ADL score jumps, patients with declining ADL score and others with steady inclining trajectory.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;scimk.github.io/img/adl-clustering.jpg&#34; alt=&#34;alt text&#34; title=&#34;adl-clustering&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://scimk.com/img/adl-clustering.jpg&#34; alt=&#34;alt text&#34; title=&#34;adl-clustering&#34; /&gt;&lt;/p&gt;
 </description>
     </item>
     
