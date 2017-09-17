@@ -1,134 +1,435 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
-  <url>
-    <loc>/scimk.github.io/</loc>
-    <lastmod>2017-04-01T00:00:00+00:00</lastmod>
-  </url>
+    
+    
+    <url>
+    
+      <loc>scimk.github.io/publication/dsa/</loc>
+      <lastmod>2017-04-01T00:00:00+00:00</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>/scimk.github.io/publication/dsa/</loc>
-    <lastmod>2017-04-01T00:00:00+00:00</lastmod>
-  </url>
+    
+    
+    <url>
+    
+      <loc>scimk.github.io/publication/risk-stratification/</loc>
+      <lastmod>2016-05-01T00:00:00+00:00</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>/scimk.github.io/publication/risk-stratification/</loc>
-    <lastmod>2016-05-01T00:00:00+00:00</lastmod>
-  </url>
+    
+    
+    <url>
+    
+      <loc>scimk.github.io/project/predictive-model-cloud/</loc>
+      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>/scimk.github.io/project/predictive-model-cloud/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
+    
+    
+    <url>
+    
+      <loc>scimk.github.io/project/adl-clustering/</loc>
+      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>/scimk.github.io/project/adl-clustering/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
+    
+    
+    <url>
+    
+      <loc>scimk.github.io/project/digital-slide-archive/</loc>
+      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>/scimk.github.io/project/digital-slide-archive/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
+    
+    
+    <url>
+    
+      <loc>scimk.github.io/project/treatment-recommendation/</loc>
+      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>/scimk.github.io/project/treatment-recommendation/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
+    
+    
+    <url>
+    
+      <loc>scimk.github.io/project/care-coordination/</loc>
+      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>/scimk.github.io/project/care-coordination/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
+    
+    
+    <url>
+    
+      <loc>scimk.github.io/publication/aip-vs-hhc/</loc>
+      <lastmod>2015-11-01T00:00:00+00:00</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>/scimk.github.io/home/about/</loc>
-    <lastmod>2016-04-20T00:00:00+00:00</lastmod>
-  </url>
+    
+    
+    <url>
+    
+      <loc>scimk.github.io/publication/predictive-model-fhir/</loc>
+      <lastmod>2015-10-06T00:00:00+00:00</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>/scimk.github.io/publication/aip-vs-hhc/</loc>
-    <lastmod>2015-11-01T00:00:00+00:00</lastmod>
-  </url>
+    
+    
+    <url>
+    
+      <loc>scimk.github.io/publication/predictive-model-cloud/</loc>
+      <lastmod>2015-10-06T00:00:00+00:00</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>/scimk.github.io/publication/predictive-model-fhir/</loc>
-    <lastmod>2015-10-06T00:00:00+00:00</lastmod>
-  </url>
+    
+    
+    <url>
+    
+      <loc>scimk.github.io/project/predictive-modeling-fhir/</loc>
+      <lastmod>2015-03-01T00:00:00+00:00</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>/scimk.github.io/publication/predictive-model-cloud/</loc>
-    <lastmod>2015-10-06T00:00:00+00:00</lastmod>
-  </url>
+    
+    
+    <url>
+    
+      <loc>scimk.github.io/publication/frsom/</loc>
+      <lastmod>2014-12-01T00:00:00+00:00</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>/scimk.github.io/project/predictive-modeling-fhir/</loc>
-    <lastmod>2015-03-01T00:00:00+00:00</lastmod>
-  </url>
+    
+    
+    <url>
+    
+      <loc>scimk.github.io/publication/improving-rfcm/</loc>
+      <lastmod>2014-10-06T00:00:00+00:00</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>/scimk.github.io/publication/frsom/</loc>
-    <lastmod>2014-12-01T00:00:00+00:00</lastmod>
-  </url>
+    
+    
+    <url>
+    
+      <loc>scimk.github.io/publication/care-coordination/</loc>
+      <lastmod>2014-10-06T00:00:00+00:00</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>/scimk.github.io/publication/improving-rfcm/</loc>
-    <lastmod>2014-10-06T00:00:00+00:00</lastmod>
-  </url>
+    
+    
+    <url>
+    
+      <loc>scimk.github.io/publication/som-topology/</loc>
+      <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>/scimk.github.io/publication/care-coordination/</loc>
-    <lastmod>2014-10-06T00:00:00+00:00</lastmod>
-  </url>
+    
+    
+    <url>
+    
+      <loc>scimk.github.io/publication/first-frsom/</loc>
+      <lastmod>2012-06-10T00:00:00+00:00</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>/scimk.github.io/publication/som-topology/</loc>
-    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
-  </url>
+    
+    
+    <url>
+    
+      <loc>scimk.github.io/publication/disease-prediction-ontology/</loc>
+      <lastmod>2011-06-27T00:00:00+00:00</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>/scimk.github.io/publication/first-frsom/</loc>
-    <lastmod>2012-06-10T00:00:00+00:00</lastmod>
-  </url>
+    
+    
+    <url>
+    
+      <loc>scimk.github.io/publication/disease-prediction/</loc>
+      <lastmod>2011-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>/scimk.github.io/publication/disease-prediction-ontology/</loc>
-    <lastmod>2011-06-27T00:00:00+00:00</lastmod>
-  </url>
+    
+    
+    <url>
+    
+      <loc>scimk.github.io/tags/adl/</loc>
+      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
   
-  <url>
-    <loc>/scimk.github.io/publication/disease-prediction/</loc>
-    <lastmod>2011-01-01T00:00:00+00:00</lastmod>
-  </url>
+    
+    
+    <url>
+    
+      <loc>scimk.github.io/tags/aws/</loc>
+      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
   
-  <url>
-    <loc>/scimk.github.io/home/publications_selected/</loc>
-    <lastmod>2016-04-20T00:00:00+00:00</lastmod>
-  </url>
+    
+    
+    <url>
+    
+      <loc>scimk.github.io/tags/big-data/</loc>
+      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
   
-  <url>
-    <loc>/scimk.github.io/home/publications/</loc>
-    <lastmod>2016-04-20T00:00:00+00:00</lastmod>
-  </url>
+    
+    
+    <url>
+    
+      <loc>scimk.github.io/tags/cancer/</loc>
+      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
   
-  <url>
-    <loc>/scimk.github.io/home/posts/</loc>
-    <lastmod>2016-04-20T00:00:00+00:00</lastmod>
-  </url>
+    
+    
+    <url>
+    
+      <loc>scimk.github.io/tags/care-coordination/</loc>
+      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
   
-  <url>
-    <loc>/scimk.github.io/home/projects/</loc>
-    <lastmod>2016-04-20T00:00:00+00:00</lastmod>
-  </url>
+    
+    
+    <url>
+    
+      <loc>scimk.github.io/categories/</loc>
+      <priority>0</priority>
+    </url>
+    
   
-  <url>
-    <loc>/scimk.github.io/home/teaching/</loc>
-    <lastmod>2016-04-20T00:00:00+00:00</lastmod>
-  </url>
+    
+    
+    <url>
+    
+      <loc>scimk.github.io/tags/cloud/</loc>
+      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
   
-  <url>
-    <loc>/scimk.github.io/home/contact/</loc>
-    <lastmod>2016-04-20T00:00:00+00:00</lastmod>
-  </url>
+    
+    
+    <url>
+    
+      <loc>scimk.github.io/tags/clustering/</loc>
+      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>scimk.github.io/tags/deployment/</loc>
+      <lastmod>2015-03-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>scimk.github.io/tags/epilepsy/</loc>
+      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>scimk.github.io/tags/fhir/</loc>
+      <lastmod>2015-03-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>scimk.github.io/tags/girder/</loc>
+      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>scimk.github.io/tags/healthcare/</loc>
+      <lastmod>2015-03-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>scimk.github.io/tags/machine-learning/</loc>
+      <lastmod>2015-03-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>scimk.github.io/</loc>
+      <lastmod>2016-04-20T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>scimk.github.io/tags/nlp/</loc>
+      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>scimk.github.io/tags/nursing-informatics/</loc>
+      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>scimk.github.io/tags/openseadragon/</loc>
+      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>scimk.github.io/tags/predictive-modeling/</loc>
+      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>scimk.github.io/project/</loc>
+      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>scimk.github.io/publication/</loc>
+      <lastmod>2017-04-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>scimk.github.io/tags/readmission-prediction/</loc>
+      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>scimk.github.io/tags/</loc>
+      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>scimk.github.io/tags/treatment-recommendation/</loc>
+      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>scimk.github.io/tags/web-services/</loc>
+      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>scimk.github.io/tags/webix/</loc>
+      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>scimk.github.io/tags/whole-slide-images/</loc>
+      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
   
 </urlset>

@@ -1,20 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Mohammed Khalilia</title>
-    <link>scimk.github.io/tags/web-services/index.xml</link>
-    <description>Recent content on Mohammed Khalilia</description>
+    <title>Web Services on Mohammed Khalilia</title>
+    <link>scimk.github.io/tags/web-services/</link>
+    <description>Recent content in Web Services on Mohammed Khalilia</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2016 Mohammed Khalilia</copyright>
-    <atom:link href="/tags/web-services/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>&amp;copy; 2017 Mohammed Khalilia</copyright>
+    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="scimk.github.io/tags/web-services/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Digital Slide Archive</title>
-      <link>/scimk.github.io/project/digital-slide-archive/</link>
+      <link>scimk.github.io/project/digital-slide-archive/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>/scimk.github.io/project/digital-slide-archive/</guid>
+      <guid>scimk.github.io/project/digital-slide-archive/</guid>
       <description>&lt;p&gt;The goal of the ”Advanced Development of an Open-source Platform for Web- based Integrative Digital Image Analysis in Cancer” is to develop open-source integrative technologies to facilitate analysis of data provided by the National Cancer Institute’s The Cancer Genome Atlas (TCGA). Some of my responsibilities include:&lt;/p&gt;
 
 &lt;ul&gt;
