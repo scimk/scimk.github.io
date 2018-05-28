@@ -8,7 +8,9 @@
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Mohammed Khalilia</copyright>
     <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/tags/treatment-recommendation/" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="http://scimk.com/tags/treatment-recommendation/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Epilepsy treatment recommendation</title>
@@ -16,10 +18,7 @@
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>http://scimk.com/project/treatment-recommendation/</guid>
-      <description>&lt;p&gt;The aim is to build a reliable prediction model for predicting the optimal treatment of an epilepsy patient. The model will rely on an individual patient’s past history, and predict the treatment most likely to achieve a positive outcome. We are working with longitudinal data and thus, define index dates for the patients. Data from before the index date serves as input available at decision time, while data from after that point in time allows us to extract outcome values and characterize the treatment.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://scimk.com/img/treatment-recommendation.jpg&#34; alt=&#34;alt text&#34; title=&#34;treatment-recommendation&#34; /&gt;&lt;/p&gt;
-</description>
+      <description>The aim is to build a reliable prediction model for predicting the optimal treatment of an epilepsy patient. The model will rely on an individual patient’s past history, and predict the treatment most likely to achieve a positive outcome. We are working with longitudinal data and thus, define index dates for the patients. Data from before the index date serves as input available at decision time, while data from after that point in time allows us to extract outcome values and characterize the treatment.</description>
     </item>
     
   </channel>

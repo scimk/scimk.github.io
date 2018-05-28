@@ -8,7 +8,65 @@
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Mohammed Khalilia</copyright>
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/home/" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="http://scimk.com/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>http://scimk.com/home/about/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://scimk.com/home/about/</guid>
+      <description>About Mohammed is a researcher, computer scientist, programmer and data scientist who earned his PhD in computer science in 2014 from the University of Missouri. He joined Georgia Tech Computational Science and Enginerring school as Postdoctoral Fellow to work on predictive modeling in healthcare. His research included predictive modeling, relational cluster analysis, health and nursing informatics. Currently, he is a Postdoctoral Fellow at Emory University Biomedical Informatics working on cancer and alzheimer research.</description>
+    </item>
+    
+    <item>
+      <title>Selected Publications</title>
+      <link>http://scimk.com/home/publications_selected/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://scimk.com/home/publications_selected/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>http://scimk.com/home/publications/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://scimk.com/home/publications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>http://scimk.com/home/projects/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://scimk.com/home/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>http://scimk.com/home/teaching/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://scimk.com/home/teaching/</guid>
+      <description>I served as an instructor and teaching assistant for the following courses at Georgia Tech:
+ Big Data Analytics in Healthcare, 2015 Vertically Integrated Projects - Computational Health, 2014-2015  I served as an instructor and teaching assistant for the following courses at the University of Missouri:
+ Capstone Senior Design II Capstone Senior Design I Science &amp;amp; Engineering of the WWW Operating Systems I Introduction to WWW Algorithm Design &amp;amp; Programming I (Java)  </description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>http://scimk.com/home/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://scimk.com/home/contact/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

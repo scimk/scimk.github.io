@@ -8,7 +8,9 @@
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Mohammed Khalilia</copyright>
     <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/tags/predictive-modeling/" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="http://scimk.com/tags/predictive-modeling/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Cloud-based predictive modeling for asthma readmission</title>
@@ -16,10 +18,7 @@
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>http://scimk.com/project/predictive-model-cloud/</guid>
-      <description>&lt;p&gt;The predictive modeling process is time consuming and requires clinical researchers to handle complex EHR data in restricted computational environments. To address this problem, we implemented a cloud-based predictive modeling system via a hybrid setup combining a secure private server with the Amazon Web Services (AWS) Elastic MapReduce platform. EHR data is preprocessed on a private server and the resulting event sequences are hosted on AWS. Based on user-specified configurations, an on-demand web service launches a cluster of Elastic Compute 2 (EC2) instances on AWS to perform feature selection and classification algorithms in a distributed fashion. Afterwards, the secure private server aggregates results and displays them via interactive visualizations. We tested the system on an asthma patient readmission task on a de-identified EHR dataset of 2,967 patients. We conduct a larger scale experiment on the CMS Linkable 2008-2010 Medicare Data Entrepreneurs’ Synthetic Public Use File dataset of 2 million patients, which achieves over 25-fold speedup than sequential execution.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://scimk.com/img/predictive-model-cloud.jpg&#34; alt=&#34;alt text&#34; title=&#34;predictive-model-fhir&#34; /&gt;&lt;/p&gt;
-</description>
+      <description>The predictive modeling process is time consuming and requires clinical researchers to handle complex EHR data in restricted computational environments. To address this problem, we implemented a cloud-based predictive modeling system via a hybrid setup combining a secure private server with the Amazon Web Services (AWS) Elastic MapReduce platform. EHR data is preprocessed on a private server and the resulting event sequences are hosted on AWS. Based on user-specified configurations, an on-demand web service launches a cluster of Elastic Compute 2 (EC2) instances on AWS to perform feature selection and classification algorithms in a distributed fashion.</description>
     </item>
     
     <item>
@@ -28,10 +27,7 @@
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>http://scimk.com/project/treatment-recommendation/</guid>
-      <description>&lt;p&gt;The aim is to build a reliable prediction model for predicting the optimal treatment of an epilepsy patient. The model will rely on an individual patient’s past history, and predict the treatment most likely to achieve a positive outcome. We are working with longitudinal data and thus, define index dates for the patients. Data from before the index date serves as input available at decision time, while data from after that point in time allows us to extract outcome values and characterize the treatment.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://scimk.com/img/treatment-recommendation.jpg&#34; alt=&#34;alt text&#34; title=&#34;treatment-recommendation&#34; /&gt;&lt;/p&gt;
-</description>
+      <description>The aim is to build a reliable prediction model for predicting the optimal treatment of an epilepsy patient. The model will rely on an individual patient’s past history, and predict the treatment most likely to achieve a positive outcome. We are working with longitudinal data and thus, define index dates for the patients. Data from before the index date serves as input available at decision time, while data from after that point in time allows us to extract outcome values and characterize the treatment.</description>
     </item>
     
     <item>
@@ -40,10 +36,7 @@
       <pubDate>Sun, 01 Mar 2015 00:00:00 +0000</pubDate>
       
       <guid>http://scimk.com/project/predictive-modeling-fhir/</guid>
-      <description>&lt;p&gt;Clinical predictive modeling involves two challenging tasks: model development and model deployment. In this paper we demonstrate a software architecture for developing and deploying clinical predictive models using web services via the Health Level 7 (HL7) Fast Healthcare Interoperability Resources (FHIR) standard. The services enable model development using electronic health records (EHRs) stored in OMOP CDM databases and model deployment for scoring individual patients through FHIR resources. The MIMIC2 ICU dataset and a synthetic outpatient dataset were transformed into OMOP CDM databases for predictive model development. The resulting predictive models are deployed as FHIR resources, which receive requests of patient information, perform prediction against the deployed predictive model and respond with prediction scores. To assess the practicality of this approach we evaluated the response and prediction time of the FHIR modeling web services. We found the system to be reasonably fast with one second total response time per patient prediction.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://scimk.com/img/predictive-model-fhir.jpg&#34; alt=&#34;alt text&#34; title=&#34;predictive-model-fhir&#34; /&gt;&lt;/p&gt;
-</description>
+      <description>Clinical predictive modeling involves two challenging tasks: model development and model deployment. In this paper we demonstrate a software architecture for developing and deploying clinical predictive models using web services via the Health Level 7 (HL7) Fast Healthcare Interoperability Resources (FHIR) standard. The services enable model development using electronic health records (EHRs) stored in OMOP CDM databases and model deployment for scoring individual patients through FHIR resources. The MIMIC2 ICU dataset and a synthetic outpatient dataset were transformed into OMOP CDM databases for predictive model development.</description>
     </item>
     
   </channel>

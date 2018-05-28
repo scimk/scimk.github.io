@@ -8,7 +8,9 @@
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Mohammed Khalilia</copyright>
     <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/tags/" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="http://scimk.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Adl</title>
@@ -142,6 +144,69 @@
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>http://scimk.com/tags/nursing-informatics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Openseadragon</title>
+      <link>http://scimk.com/tags/openseadragon/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://scimk.com/tags/openseadragon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predictive Modeling</title>
+      <link>http://scimk.com/tags/predictive-modeling/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://scimk.com/tags/predictive-modeling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Readmission Prediction</title>
+      <link>http://scimk.com/tags/readmission-prediction/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://scimk.com/tags/readmission-prediction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Treatment Recommendation</title>
+      <link>http://scimk.com/tags/treatment-recommendation/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://scimk.com/tags/treatment-recommendation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Web Services</title>
+      <link>http://scimk.com/tags/web-services/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://scimk.com/tags/web-services/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Webix</title>
+      <link>http://scimk.com/tags/webix/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://scimk.com/tags/webix/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Whole Slide Images</title>
+      <link>http://scimk.com/tags/whole-slide-images/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://scimk.com/tags/whole-slide-images/</guid>
       <description></description>
     </item>
     
