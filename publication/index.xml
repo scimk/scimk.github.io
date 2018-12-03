@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Mohammed Khalilia</copyright>
-    <lastBuildDate>Sat, 01 Apr 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 03 Dec 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://scimk.com/publication/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>End-to-end Joint Entity Extraction and Negation Detection for Clinical Text</title>
+      <link>http://scimk.com/publication/negation-detection/</link>
+      <pubDate>Mon, 03 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://scimk.com/publication/negation-detection/</guid>
+      <description> Abstract </description>
+    </item>
+    
+    <item>
+      <title>Improving Hospital Mortality Prediction with Medical Named Entities and Multimodal Learning</title>
+      <link>http://scimk.com/publication/predictive-model-mortality/</link>
+      <pubDate>Mon, 03 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://scimk.com/publication/predictive-model-mortality/</guid>
+      <description>Abstract Clinical text provides essential information to estimate the acuity of a patient during hospital stays in addition to structured clinical data. In this study, we explore how clinical text can complement a clinical predictive learning task. We leverage an internal medical natural language processing service to perform named entity extraction and negation detection on clinical notes and compose selected entities into a new text corpus to train document representations.</description>
+    </item>
     
     <item>
       <title>The Digital Slide Archive: A Software Platform for Management, Integration and Analysis of Histology for Cancer Research</title>

@@ -11,6 +11,32 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>End-to-end Joint Entity Extraction and Negation Detection for Clinical Text</title>
+      <link>http://scimk.com/publication/negation-detection/</link>
+      <pubDate>Mon, 03 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://scimk.com/publication/negation-detection/</guid>
+      <description>
+
+&lt;h1 id=&#34;abstract&#34;&gt;Abstract&lt;/h1&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Improving Hospital Mortality Prediction with Medical Named Entities and Multimodal Learning</title>
+      <link>http://scimk.com/publication/predictive-model-mortality/</link>
+      <pubDate>Mon, 03 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://scimk.com/publication/predictive-model-mortality/</guid>
+      <description>
+
+&lt;h1 id=&#34;abstract&#34;&gt;Abstract&lt;/h1&gt;
+
+&lt;p&gt;Clinical text provides essential information to estimate the acuity of a patient during hospital stays in addition to structured clinical data. In this study, we explore how clinical text can complement a clinical predictive learning task. We leverage an internal medical natural language processing service to perform named entity extraction and negation detection on clinical notes and compose selected entities into a new text corpus to train document representations. We then propose a multimodal neural network to jointly train time series signals and unstructured clinical text representations to predict the in-hospital mortality risk for ICU patients. Our model outperforms the benchmark by 2% AUC.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>The Digital Slide Archive: A Software Platform for Management, Integration and Analysis of Histology for Cancer Research</title>
       <link>http://scimk.com/publication/dsa/</link>
       <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
@@ -188,30 +214,6 @@
 &lt;h1 id=&#34;abstract&#34;&gt;Abstract&lt;/h1&gt;
 
 &lt;p&gt;Relational fuzzy c-means (RFCM) is an algorithm for clustering objects represented in a pairwise dissimilarity values in a dissimilarity data matrix D. RFCM is dual to the fuzzy c-means (FCM) object data algorithm when D is a Euclidean matrix. When D is not Euclidean, RFCM can fail to execute if it encounters negative relational distances. To overcome this problem we can Euclideanize the relation D prior to clustering. There are different ways to Euclideanize D such as the β-spread transformation. In this article we compare five methods for Euclideanizing D   to View the MathML source. The quality of View the MathML source for our purpose is judged by the ability of RFCM to discover the apparent cluster structure of the objects underlying the data matrix D  . The subdominant ultrametric transformation is a clear winner, producing much better partitions of View the MathML source than the other four methods. This leads to a new algorithm which we call the improved RFCM (iRFCM).&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Quantifying care coordination using natural language processing and domain-specific ontology</title>
-      <link>http://scimk.com/publication/care-coordination/</link>
-      <pubDate>Mon, 06 Oct 2014 00:00:00 +0000</pubDate>
-      
-      <guid>http://scimk.com/publication/care-coordination/</guid>
-      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Topology preservation in fuzzy self-organizing maps</title>
-      <link>http://scimk.com/publication/som-topology/</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      
-      <guid>http://scimk.com/publication/som-topology/</guid>
-      <description>
-
-&lt;h1 id=&#34;abstract&#34;&gt;Abstract&lt;/h1&gt;
-
-&lt;p&gt;One of the important properties of SOM is its topology preservation of the input data. The topographic error is one of the techniques proposed to measure how well the continuity of the map is preserved. However, this topographic error is only applicable to the crisp SOM algorithms and cannot be adapted to the fuzzy SOM (FSOM) since FSOM does not assign a unique winning neuron to the input patterns. In this paper, we propose a new technique to measure the topology preservation of the FSOM algorithms. The new measure relies on the distribution of the membership values on the map. A low topographic error is achieved when neighboring neurons share similar or same membership values to a given input pattern.&lt;/p&gt;
 </description>
     </item>
     
