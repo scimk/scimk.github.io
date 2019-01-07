@@ -11,20 +11,6 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>End-to-end Joint Entity Extraction and Negation Detection for Clinical Text</title>
-      <link>http://scimk.com/publication/negation-detection/</link>
-      <pubDate>Mon, 03 Dec 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://scimk.com/publication/negation-detection/</guid>
-      <description>
-
-&lt;h1 id=&#34;abstract&#34;&gt;Abstract&lt;/h1&gt;
-
-&lt;p&gt;Negative medical findings are prevalent in clinical reports, yet discriminating them from positive findings remains a challenging task for information extraction. Most of the existing systems treat this task as a pipeline of two separate tasks, i.e., named entity recognition (NER) and rule-based negation detection. We consider this as a multi-task problem and present a novel end-to-end neural model to jointly extract entities and negations. We extend a standard hierarchical encoder-decoder NER model and first adopt a shared encoder followed by separate decoders for the two tasks. This architecture performs considerably better than the previous rule-based and machine learning-based systems. To overcome the problem of increased parameter size especially for low-resource settings, we propose the \textit{Conditional Softmax Shared Decoder} architecture which achieves state-of-art results for NER and negation detection on the 2010 i2b2/VA challenge dataset and a proprietary de-identified clinical dataset.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Improving Hospital Mortality Prediction with Medical Named Entities and Multimodal Learning</title>
       <link>http://scimk.com/publication/predictive-model-mortality/</link>
       <pubDate>Mon, 03 Dec 2018 00:00:00 +0000</pubDate>
@@ -216,6 +202,16 @@
 &lt;h1 id=&#34;abstract&#34;&gt;Abstract&lt;/h1&gt;
 
 &lt;p&gt;Relational fuzzy c-means (RFCM) is an algorithm for clustering objects represented in a pairwise dissimilarity values in a dissimilarity data matrix D. RFCM is dual to the fuzzy c-means (FCM) object data algorithm when D is a Euclidean matrix. When D is not Euclidean, RFCM can fail to execute if it encounters negative relational distances. To overcome this problem we can Euclideanize the relation D prior to clustering. There are different ways to Euclideanize D such as the β-spread transformation. In this article we compare five methods for Euclideanizing D   to View the MathML source. The quality of View the MathML source for our purpose is judged by the ability of RFCM to discover the apparent cluster structure of the objects underlying the data matrix D  . The subdominant ultrametric transformation is a clear winner, producing much better partitions of View the MathML source than the other four methods. This leads to a new algorithm which we call the improved RFCM (iRFCM).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Quantifying care coordination using natural language processing and domain-specific ontology</title>
+      <link>http://scimk.com/publication/care-coordination/</link>
+      <pubDate>Mon, 06 Oct 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://scimk.com/publication/care-coordination/</guid>
+      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
     
