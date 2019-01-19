@@ -13,6 +13,21 @@
     
     
     <item>
+      <title>Amazon Comprehend Medical</title>
+      <link>http://scimk.com/project/comprehend-medical/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://scimk.com/project/comprehend-medical/</guid>
+      <description>Comprehend Medical is a natural language processing (NLP) service that leverages state-of-the-art machine learning techniques for extracting relationships and entities including medical conditions, medications, treatment, test and procedures.
+Related Publications:
+End-to-end Joint Entity Extraction and Negation Detection for Clinical Text
+Improving hospital mortality prediction with medical named entities and multimodal learning
+News:
+Geek Wire - Amazon unveils new service to mine and decode medical records using artificial intelligence
+Amazon Blog - Amazon Comprehend Medical</description>
+    </item>
+    
+    <item>
       <title>Cloud-based predictive modeling for asthma readmission</title>
       <link>http://scimk.com/project/predictive-model-cloud/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>

@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Nlp on Mohammed Khalilia</title>
-    <link>http://scimk.com/tags/nlp/</link>
-    <description>Recent content in Nlp on Mohammed Khalilia</description>
+    <title>Amazon Comprehend Medical on Mohammed Khalilia</title>
+    <link>http://scimk.com/tags/amazon-comprehend-medical/</link>
+    <description>Recent content in Amazon Comprehend Medical on Mohammed Khalilia</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Mohammed Khalilia</copyright>
     <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://scimk.com/tags/nlp/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://scimk.com/tags/amazon-comprehend-medical/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -25,15 +25,6 @@ Improving hospital mortality prediction with medical named entities and multimod
 News:
 Geek Wire - Amazon unveils new service to mine and decode medical records using artificial intelligence
 Amazon Blog - Amazon Comprehend Medical</description>
-    </item>
-    
-    <item>
-      <title>Quantifying care coordination</title>
-      <link>http://scimk.com/project/care-coordination/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://scimk.com/project/care-coordination/</guid>
-      <description>This research identifies specific care coordination activities used by Aging In Place (AIP) nurse care coordinators and home healthcare nurses when coordinating care for older community dwelling adults and suggests a method to quantify care coordination. A care coordination ontology was built based on activities extracted from 11,038 notes labeled with the Omaha Case Management category. From the parsed narrative notes of every patient, we mapped the extracted activities to the ontology, from which we computed problem profiles and quantified care coordination for all patients.</description>
     </item>
     
   </channel>

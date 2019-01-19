@@ -65,6 +65,32 @@
     </item>
     
     <item>
+      <title>Amazon Comprehend Medical</title>
+      <link>http://scimk.com/project/comprehend-medical/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://scimk.com/project/comprehend-medical/</guid>
+      <description>&lt;p&gt;Comprehend Medical is a natural language processing (NLP) service that leverages state-of-the-art machine learning techniques for extracting relationships and entities including medical conditions, medications, treatment, test and procedures.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://scimk.com/img/comprehend-medical-ui.png&#34; alt=&#34;alt text&#34; title=&#34;comprehend-medical&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Related Publications:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://arxiv.org/abs/1812.05270&#34;&gt;End-to-end Joint Entity Extraction and Negation Detection for Clinical Text&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://arxiv.org/abs/1811.12276&#34;&gt;Improving hospital mortality prediction with medical named entities and multimodal learning&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;News:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.geekwire.com/2018/amazon-unveils-new-service-mine-decode-medical-records-using-artificial-intelligence/&#34;&gt;Geek Wire - Amazon unveils new service to mine and decode medical records using artificial intelligence&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://aws.amazon.com/comprehend/medical/&#34;&gt;Amazon Blog - Amazon Comprehend Medical&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://aws.amazon.com/blogs/aws/amazon-comprehend-medical-natural-language-processing-for-healthcare-customers/&#34;&gt;Amazon Blog - Amazon Comprehend Medical – Natural Language Processing for Healthcare Customers&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Cloud-based predictive modeling for asthma readmission</title>
       <link>http://scimk.com/project/predictive-model-cloud/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
@@ -202,20 +228,6 @@
 &lt;h1 id=&#34;abstract&#34;&gt;Abstract&lt;/h1&gt;
 
 &lt;p&gt;The notion of Best-Matching Unit (BMU) in the proposed Fuzzy Relational Self-Organizing (FRSOM) algorithm is replaced by a membership function where every neuron has a certain degree of matching to an input object. The FRSOM is an extension of the relational self-organizing map. In the proposed FRSOM we incorporate a monotonically increasing fuzzifier and a monotonically decreasing neighborhood kernel. Initially, FRSOM assigns winning neurons. However, as time progresses adjacent neurons begin communicating and sharing information about the stimulus received. The amount of information being shared at a given time is governed by the fuzzifier and the number of neurons sharing information is controlled by the neighborhood kernel. Additionally, in this paper we show that FRSOM is the relational dual of Fuzzy Batch SOM (FBSOM) followed by experimental results comparing both FBSOM and FRSOM on synthetic datasets. Then we will demonstrate the visualization and summarization capabilities of FRSOM on two real relational datasets, Gene Ontology and a patient data consisting of Activity of Daily Living score trajectories.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Improvements to the relational fuzzy c-means clustering algorithm</title>
-      <link>http://scimk.com/publication/improving-rfcm/</link>
-      <pubDate>Mon, 06 Oct 2014 00:00:00 +0000</pubDate>
-      
-      <guid>http://scimk.com/publication/improving-rfcm/</guid>
-      <description>
-
-&lt;h1 id=&#34;abstract&#34;&gt;Abstract&lt;/h1&gt;
-
-&lt;p&gt;Relational fuzzy c-means (RFCM) is an algorithm for clustering objects represented in a pairwise dissimilarity values in a dissimilarity data matrix D. RFCM is dual to the fuzzy c-means (FCM) object data algorithm when D is a Euclidean matrix. When D is not Euclidean, RFCM can fail to execute if it encounters negative relational distances. To overcome this problem we can Euclideanize the relation D prior to clustering. There are different ways to Euclideanize D such as the β-spread transformation. In this article we compare five methods for Euclideanizing D   to View the MathML source. The quality of View the MathML source for our purpose is judged by the ability of RFCM to discover the apparent cluster structure of the objects underlying the data matrix D  . The subdominant ultrametric transformation is a clear winner, producing much better partitions of View the MathML source than the other four methods. This leads to a new algorithm which we call the improved RFCM (iRFCM).&lt;/p&gt;
 </description>
     </item>
     
