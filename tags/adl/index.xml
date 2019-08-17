@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Adl on Mohammed Khalilia</title>
-    <link>http://scimk.com/tags/adl/</link>
+    <link>http://mohammedkhalilia.com/tags/adl/</link>
     <description>Recent content in Adl on Mohammed Khalilia</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019 Mohammed Khalilia</copyright>
     <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://scimk.com/tags/adl/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://mohammedkhalilia.com/tags/adl/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Clustering patients using activity of daily living scores</title>
-      <link>http://scimk.com/project/adl-clustering/</link>
+      <link>http://mohammedkhalilia.com/project/adl-clustering/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://scimk.com/project/adl-clustering/</guid>
+      <guid>http://mohammedkhalilia.com/project/adl-clustering/</guid>
       <description>Stratification is a valuable technique for providing an insight on the structure of the patient population based on some features such as Activity of Daily Living (ADL) scores. Grouping patients can play an important role in designing clinical trials or improving care delivery. In this paper, we present a method for stratifying patients based on their ADL scores. Every patient is represented by a time series consisting of ADL scores recorded over a period of up to two years.</description>
     </item>
     

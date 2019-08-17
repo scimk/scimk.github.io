@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Amazon Comprehend Medical on Mohammed Khalilia</title>
-    <link>http://scimk.com/tags/amazon-comprehend-medical/</link>
+    <link>http://mohammedkhalilia.com/tags/amazon-comprehend-medical/</link>
     <description>Recent content in Amazon Comprehend Medical on Mohammed Khalilia</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019 Mohammed Khalilia</copyright>
     <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://scimk.com/tags/amazon-comprehend-medical/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://mohammedkhalilia.com/tags/amazon-comprehend-medical/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Amazon Comprehend Medical</title>
-      <link>http://scimk.com/project/comprehend-medical/</link>
+      <link>http://mohammedkhalilia.com/project/comprehend-medical/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://scimk.com/project/comprehend-medical/</guid>
+      <guid>http://mohammedkhalilia.com/project/comprehend-medical/</guid>
       <description>Comprehend Medical is a natural language processing (NLP) service that leverages state-of-the-art machine learning techniques for extracting relationships and entities including medical conditions, medications, treatment, test and procedures.
 Related Publications:
 End-to-end Joint Entity Extraction and Negation Detection for Clinical Text

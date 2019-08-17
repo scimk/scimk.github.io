@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Webix on Mohammed Khalilia</title>
-    <link>http://scimk.com/tags/webix/</link>
+    <link>http://mohammedkhalilia.com/tags/webix/</link>
     <description>Recent content in Webix on Mohammed Khalilia</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019 Mohammed Khalilia</copyright>
     <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://scimk.com/tags/webix/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://mohammedkhalilia.com/tags/webix/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Digital Slide Archive</title>
-      <link>http://scimk.com/project/digital-slide-archive/</link>
+      <link>http://mohammedkhalilia.com/project/digital-slide-archive/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://scimk.com/project/digital-slide-archive/</guid>
+      <guid>http://mohammedkhalilia.com/project/digital-slide-archive/</guid>
       <description>The goal of the ”Advanced Development of an Open-source Platform for Web- based Integrative Digital Image Analysis in Cancer” is to develop open-source integrative technologies to facilitate analysis of data provided by the National Cancer Institute’s The Cancer Genome Atlas (TCGA). Some of my responsibilities include:
  Developing annotation capabilities that allow users to markup image data and share and retrieve their markups, Assisting in transforming the current Cancer Digital Slide Archive currently hosted at Emory to an open-source software platform that enables other in- vestigators and institutions to deploy cloud-based infrastructure to manage, share and analyze their own imaging archives, Providing computational image analysis capabilities that enable users to characterize tissues and extract quantitative imaging biomarkers using image analysis algorithms, Developing integrative analysis dashboard to enable users to explore the relationships between quantitative descriptions of image data and clinical or genetic variables.</description>
     </item>
