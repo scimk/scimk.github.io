@@ -11,6 +11,20 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Joint Entity Extraction and Assertion Detection for Clinical Text</title>
+      <link>http://scimk.com/publication/joint-entity-assertion-detection/</link>
+      <pubDate>Fri, 26 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://scimk.com/publication/joint-entity-assertion-detection/</guid>
+      <description>
+
+&lt;h1 id=&#34;abstract&#34;&gt;Abstract&lt;/h1&gt;
+
+&lt;p&gt;Negative medical findings are prevalent in clinical reports, yet discriminating them from positive findings remains a challenging task for in-formation extraction. Most of the existing systems treat this task as a pipeline of two separate tasks, i.e., named entity recognition (NER)and rule-based negation detection. We consider this as a multi-task problem and present a novel end-to-end neural model to jointly extract entities and negations. We extend a standard hierarchical encoder-decoder NER model and first adopt a shared encoder followed by separate decoders for the two tasks. This architecture performs considerably better than the previous rule-based and machine learning-based systems. To overcome the problem of increased parameter size especially for low-resource settings, we propose the Conditional Softmax Shared Decoder architecture which achieves state-of-art results for NER and negation detection on the 2010 i2b2/VA challenge dataset and a proprietary de-identified clinical dataset.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>End-to-end Joint Entity Extraction and Negation Detection for Clinical Text</title>
       <link>http://scimk.com/publication/negation-detection/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
@@ -214,20 +228,6 @@
       <description>&lt;p&gt;Clinical predictive modeling involves two challenging tasks: model development and model deployment. In this paper we demonstrate a software architecture for developing and deploying clinical predictive models using web services via the Health Level 7 (HL7) Fast Healthcare Interoperability Resources (FHIR) standard. The services enable model development using electronic health records (EHRs) stored in OMOP CDM databases and model deployment for scoring individual patients through FHIR resources. The MIMIC2 ICU dataset and a synthetic outpatient dataset were transformed into OMOP CDM databases for predictive model development. The resulting predictive models are deployed as FHIR resources, which receive requests of patient information, perform prediction against the deployed predictive model and respond with prediction scores. To assess the practicality of this approach we evaluated the response and prediction time of the FHIR modeling web services. We found the system to be reasonably fast with one second total response time per patient prediction.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;http://scimk.com/img/predictive-model-fhir.jpg&#34; alt=&#34;alt text&#34; title=&#34;predictive-model-fhir&#34; /&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Relational Fuzzy Self-Organizing Maps for Cluster Visualization and Summarization</title>
-      <link>http://scimk.com/publication/frsom/</link>
-      <pubDate>Mon, 01 Dec 2014 00:00:00 +0000</pubDate>
-      
-      <guid>http://scimk.com/publication/frsom/</guid>
-      <description>
-
-&lt;h1 id=&#34;abstract&#34;&gt;Abstract&lt;/h1&gt;
-
-&lt;p&gt;The notion of Best-Matching Unit (BMU) in the proposed Fuzzy Relational Self-Organizing (FRSOM) algorithm is replaced by a membership function where every neuron has a certain degree of matching to an input object. The FRSOM is an extension of the relational self-organizing map. In the proposed FRSOM we incorporate a monotonically increasing fuzzifier and a monotonically decreasing neighborhood kernel. Initially, FRSOM assigns winning neurons. However, as time progresses adjacent neurons begin communicating and sharing information about the stimulus received. The amount of information being shared at a given time is governed by the fuzzifier and the number of neurons sharing information is controlled by the neighborhood kernel. Additionally, in this paper we show that FRSOM is the relational dual of Fuzzy Batch SOM (FBSOM) followed by experimental results comparing both FBSOM and FRSOM on synthetic datasets. Then we will demonstrate the visualization and summarization capabilities of FRSOM on two real relational datasets, Gene Ontology and a patient data consisting of Activity of Daily Living score trajectories.&lt;/p&gt;
 </description>
     </item>
     
