@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Nlp on Mohammed Khalilia</title>
-    <link>http://mohammedkhalilia.com/tags/nlp/</link>
+    <link>https://mohammedkhalilia.com/tags/nlp/</link>
     <description>Recent content in Nlp on Mohammed Khalilia</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019 Mohammed Khalilia</copyright>
     <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://mohammedkhalilia.com/tags/nlp/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://mohammedkhalilia.com/tags/nlp/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Amazon Comprehend Medical</title>
-      <link>http://mohammedkhalilia.com/project/comprehend-medical/</link>
+      <link>https://mohammedkhalilia.com/project/comprehend-medical/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://mohammedkhalilia.com/project/comprehend-medical/</guid>
+      <guid>https://mohammedkhalilia.com/project/comprehend-medical/</guid>
       <description>Comprehend Medical is a natural language processing (NLP) service that leverages state-of-the-art machine learning techniques for extracting relationships and entities including medical conditions, medications, treatment, test and procedures.
 Related Publications:
 End-to-end Joint Entity Extraction and Negation Detection for Clinical Text
@@ -29,10 +29,10 @@ Amazon Blog - Amazon Comprehend Medical</description>
     
     <item>
       <title>Quantifying care coordination</title>
-      <link>http://mohammedkhalilia.com/project/care-coordination/</link>
+      <link>https://mohammedkhalilia.com/project/care-coordination/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://mohammedkhalilia.com/project/care-coordination/</guid>
+      <guid>https://mohammedkhalilia.com/project/care-coordination/</guid>
       <description>This research identifies specific care coordination activities used by Aging In Place (AIP) nurse care coordinators and home healthcare nurses when coordinating care for older community dwelling adults and suggests a method to quantify care coordination. A care coordination ontology was built based on activities extracted from 11,038 notes labeled with the Omaha Case Management category. From the parsed narrative notes of every patient, we mapped the extracted activities to the ontology, from which we computed problem profiles and quantified care coordination for all patients.</description>
     </item>
     

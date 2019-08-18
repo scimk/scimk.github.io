@@ -2,149 +2,149 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications on Mohammed Khalilia</title>
-    <link>http://mohammedkhalilia.com/publication/</link>
+    <link>https://mohammedkhalilia.com/publication/</link>
     <description>Recent content in Publications on Mohammed Khalilia</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019 Mohammed Khalilia</copyright>
     <lastBuildDate>Fri, 26 Jul 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://mohammedkhalilia.com/publication/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://mohammedkhalilia.com/publication/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Joint Entity Extraction and Assertion Detection for Clinical Text</title>
-      <link>http://mohammedkhalilia.com/publication/joint-entity-assertion-detection/</link>
+      <link>https://mohammedkhalilia.com/publication/joint-entity-assertion-detection/</link>
       <pubDate>Fri, 26 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://mohammedkhalilia.com/publication/joint-entity-assertion-detection/</guid>
+      <guid>https://mohammedkhalilia.com/publication/joint-entity-assertion-detection/</guid>
       <description>Abstract Negative medical findings are prevalent in clinical reports, yet discriminating them from positive findings remains a challenging task for in-formation extraction. Most of the existing systems treat this task as a pipeline of two separate tasks, i.e., named entity recognition (NER)and rule-based negation detection. We consider this as a multi-task problem and present a novel end-to-end neural model to jointly extract entities and negations. We extend a standard hierarchical encoder-decoder NER model and first adopt a shared encoder followed by separate decoders for the two tasks.</description>
     </item>
     
     <item>
       <title>End-to-end Joint Entity Extraction and Negation Detection for Clinical Text</title>
-      <link>http://mohammedkhalilia.com/publication/negation-detection/</link>
+      <link>https://mohammedkhalilia.com/publication/negation-detection/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://mohammedkhalilia.com/publication/negation-detection/</guid>
+      <guid>https://mohammedkhalilia.com/publication/negation-detection/</guid>
       <description>Abstract Negative medical findings are prevalent in clinical reports, yet discriminating them from positive findings remains a challenging task for information extraction. Most of the existing systems treat this task as a pipeline of two separate tasks, i.e., named entity recognition (NER) and rule-based negation detection. We consider this as a multi-task problem and present a novel end-to-end neural model to jointly extract entities and negations. We extend a standard hierarchical encoder-decoder NER model and first adopt a shared encoder followed by separate decoders for the two tasks.</description>
     </item>
     
     <item>
       <title>Improving Hospital Mortality Prediction with Medical Named Entities and Multimodal Learning</title>
-      <link>http://mohammedkhalilia.com/publication/predictive-model-mortality/</link>
+      <link>https://mohammedkhalilia.com/publication/predictive-model-mortality/</link>
       <pubDate>Mon, 03 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://mohammedkhalilia.com/publication/predictive-model-mortality/</guid>
+      <guid>https://mohammedkhalilia.com/publication/predictive-model-mortality/</guid>
       <description>Abstract Clinical text provides essential information to estimate the acuity of a patient during hospital stays in addition to structured clinical data. In this study, we explore how clinical text can complement a clinical predictive learning task. We leverage an internal medical natural language processing service to perform named entity extraction and negation detection on clinical notes and compose selected entities into a new text corpus to train document representations.</description>
     </item>
     
     <item>
       <title>The Digital Slide Archive: A Software Platform for Management, Integration and Analysis of Histology for Cancer Research</title>
-      <link>http://mohammedkhalilia.com/publication/dsa/</link>
+      <link>https://mohammedkhalilia.com/publication/dsa/</link>
       <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://mohammedkhalilia.com/publication/dsa/</guid>
+      <guid>https://mohammedkhalilia.com/publication/dsa/</guid>
       <description> Abstract </description>
     </item>
     
     <item>
       <title>Identifying Patients at Risk of High Healthcare Utilization</title>
-      <link>http://mohammedkhalilia.com/publication/risk-stratification/</link>
+      <link>https://mohammedkhalilia.com/publication/risk-stratification/</link>
       <pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://mohammedkhalilia.com/publication/risk-stratification/</guid>
+      <guid>https://mohammedkhalilia.com/publication/risk-stratification/</guid>
       <description>Abstract Objective. To develop a systematic and reproducible way to identify patients at increased risk for higher healthcare costs. Methods. Medical records were analyzed for 9,581 adults who were primary care patients in the University of Missouri Health System and who were enrolled in Medicare or Medicaid. Patients were categorized into one of four risk tiers as of October 1, 2013, and the four tiers were compared on demographic characteristics, number of healthcare episodes, and healthcare charges in the year before and the year after cohort formation.</description>
     </item>
     
     <item>
       <title>Comparing Aging in Place to Home Health Care: Impact of Nurse Care Coordination On Utilization and Costs</title>
-      <link>http://mohammedkhalilia.com/publication/aip-vs-hhc/</link>
+      <link>https://mohammedkhalilia.com/publication/aip-vs-hhc/</link>
       <pubDate>Sun, 01 Nov 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://mohammedkhalilia.com/publication/aip-vs-hhc/</guid>
+      <guid>https://mohammedkhalilia.com/publication/aip-vs-hhc/</guid>
       <description>Abstract For the chronically ill, care delivered in the home is a lifeline to the self-management of chronic conditions. Currently, 90% of Americans age 75 and older have at least one chronic medical condition, and 20% have five or more chronic illnesses (AARP, 2009). The cost of caring for people with five or more chronic illnesses is roughly 17 times higher than for those without chronic illness (Bodenheimer &amp;amp; Berry-Millett, 2009).</description>
     </item>
     
     <item>
       <title>Clinical Predictive Modeling Development and Deploy- ment through FHIR Web Services</title>
-      <link>http://mohammedkhalilia.com/publication/predictive-model-fhir/</link>
+      <link>https://mohammedkhalilia.com/publication/predictive-model-fhir/</link>
       <pubDate>Tue, 06 Oct 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://mohammedkhalilia.com/publication/predictive-model-fhir/</guid>
+      <guid>https://mohammedkhalilia.com/publication/predictive-model-fhir/</guid>
       <description>Abstract Clinical predictive modeling involves two challenging tasks: model development and model deployment. In this paper we demonstrate a software architecture for developing and deploying clinical predictive models using web services via the Health Level 7 (HL7) Fast Healthcare Interoperability Resources (FHIR) standard. The services enable model development using electronic health records (EHRs) stored in OMOP CDM databases and model deployment for scoring individual patients through FHIR resources. The MIMIC2 ICU dataset and a synthetic outpatient dataset were transformed into OMOP CDM databases for predictive model development.</description>
     </item>
     
     <item>
       <title>Cloud-based Predictive Modeling System and its Application to Asthma Readmission Prediction</title>
-      <link>http://mohammedkhalilia.com/publication/predictive-model-cloud/</link>
+      <link>https://mohammedkhalilia.com/publication/predictive-model-cloud/</link>
       <pubDate>Tue, 06 Oct 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://mohammedkhalilia.com/publication/predictive-model-cloud/</guid>
+      <guid>https://mohammedkhalilia.com/publication/predictive-model-cloud/</guid>
       <description>Abstract The predictive modeling process is time consuming and requires clinical researchers to handle complex electronic health record (EHR) data in restricted computational environments. To address this problem, we implemented a cloud-based predictive modeling system via a hybrid setup combining a secure private server with the Amazon Web Services (AWS) Elastic MapReduce platform.
 EHR data is preprocessed on a private server and the resulting de-identified event sequences are hosted on AWS.</description>
     </item>
     
     <item>
       <title>Relational Fuzzy Self-Organizing Maps for Cluster Visualization and Summarization</title>
-      <link>http://mohammedkhalilia.com/publication/frsom/</link>
+      <link>https://mohammedkhalilia.com/publication/frsom/</link>
       <pubDate>Mon, 01 Dec 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://mohammedkhalilia.com/publication/frsom/</guid>
+      <guid>https://mohammedkhalilia.com/publication/frsom/</guid>
       <description>Abstract The notion of Best-Matching Unit (BMU) in the proposed Fuzzy Relational Self-Organizing (FRSOM) algorithm is replaced by a membership function where every neuron has a certain degree of matching to an input object. The FRSOM is an extension of the relational self-organizing map. In the proposed FRSOM we incorporate a monotonically increasing fuzzifier and a monotonically decreasing neighborhood kernel. Initially, FRSOM assigns winning neurons. However, as time progresses adjacent neurons begin communicating and sharing information about the stimulus received.</description>
     </item>
     
     <item>
       <title>Improvements to the relational fuzzy c-means clustering algorithm</title>
-      <link>http://mohammedkhalilia.com/publication/improving-rfcm/</link>
+      <link>https://mohammedkhalilia.com/publication/improving-rfcm/</link>
       <pubDate>Mon, 06 Oct 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://mohammedkhalilia.com/publication/improving-rfcm/</guid>
+      <guid>https://mohammedkhalilia.com/publication/improving-rfcm/</guid>
       <description>Abstract Relational fuzzy c-means (RFCM) is an algorithm for clustering objects represented in a pairwise dissimilarity values in a dissimilarity data matrix D. RFCM is dual to the fuzzy c-means (FCM) object data algorithm when D is a Euclidean matrix. When D is not Euclidean, RFCM can fail to execute if it encounters negative relational distances. To overcome this problem we can Euclideanize the relation D prior to clustering. There are different ways to Euclideanize D such as the β-spread transformation.</description>
     </item>
     
     <item>
       <title>Quantifying care coordination using natural language processing and domain-specific ontology</title>
-      <link>http://mohammedkhalilia.com/publication/care-coordination/</link>
+      <link>https://mohammedkhalilia.com/publication/care-coordination/</link>
       <pubDate>Mon, 06 Oct 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://mohammedkhalilia.com/publication/care-coordination/</guid>
+      <guid>https://mohammedkhalilia.com/publication/care-coordination/</guid>
       <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
     </item>
     
     <item>
       <title>Topology preservation in fuzzy self-organizing maps</title>
-      <link>http://mohammedkhalilia.com/publication/som-topology/</link>
+      <link>https://mohammedkhalilia.com/publication/som-topology/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://mohammedkhalilia.com/publication/som-topology/</guid>
+      <guid>https://mohammedkhalilia.com/publication/som-topology/</guid>
       <description>Abstract One of the important properties of SOM is its topology preservation of the input data. The topographic error is one of the techniques proposed to measure how well the continuity of the map is preserved. However, this topographic error is only applicable to the crisp SOM algorithms and cannot be adapted to the fuzzy SOM (FSOM) since FSOM does not assign a unique winning neuron to the input patterns.</description>
     </item>
     
     <item>
       <title>Fuzzy relational self-organizing maps</title>
-      <link>http://mohammedkhalilia.com/publication/first-frsom/</link>
+      <link>https://mohammedkhalilia.com/publication/first-frsom/</link>
       <pubDate>Sun, 10 Jun 2012 00:00:00 +0000</pubDate>
       
-      <guid>http://mohammedkhalilia.com/publication/first-frsom/</guid>
+      <guid>https://mohammedkhalilia.com/publication/first-frsom/</guid>
       <description>Abstract In this paper we propose a novel fuzzy relational self-organizing map algorithm (FRSOM) that can be used to map a set of n objects described by pairwise dissimilarity values to a two dimensional lattice structure. FRSOM generates a fuzzy membership matrix replacing the crisp best-matching unit matrix in the regular relational SOM (RSOM). We found that FRSOM discovers hard to find substructures in the data that present a challenge to the crisp relational SOM.</description>
     </item>
     
     <item>
       <title>Improving disease prediction using ICD-9 ontological features</title>
-      <link>http://mohammedkhalilia.com/publication/disease-prediction-ontology/</link>
+      <link>https://mohammedkhalilia.com/publication/disease-prediction-ontology/</link>
       <pubDate>Mon, 27 Jun 2011 00:00:00 +0000</pubDate>
       
-      <guid>http://mohammedkhalilia.com/publication/disease-prediction-ontology/</guid>
+      <guid>https://mohammedkhalilia.com/publication/disease-prediction-ontology/</guid>
       <description>Abstract Disease prediction has become important in a variety of applications such as health insurance, tailored health communication and public health. Disease prediction is usually performed using publically available datasets such as HCUP, NHANES or MDS that were initially designed for health reporting or health cost evaluation but not for disease prediction. In these datasets, medical diagnoses are traditionally arranged in &amp;ldquo;diagnose-related groups&amp;rdquo; (DRGs). In this paper we compare the disease prediction based on crisp DRG features with the results obtained employing a new set of features that consist of the fuzzy membership of patient diagnoses in the DRG groups.</description>
     </item>
     
     <item>
       <title>Predicting disease risks from highly imbalanced data using random forest</title>
-      <link>http://mohammedkhalilia.com/publication/disease-prediction/</link>
+      <link>https://mohammedkhalilia.com/publication/disease-prediction/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
       
-      <guid>http://mohammedkhalilia.com/publication/disease-prediction/</guid>
+      <guid>https://mohammedkhalilia.com/publication/disease-prediction/</guid>
       <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
     </item>
     

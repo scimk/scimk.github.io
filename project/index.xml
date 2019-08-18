@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Mohammed Khalilia</title>
-    <link>http://mohammedkhalilia.com/project/</link>
+    <link>https://mohammedkhalilia.com/project/</link>
     <description>Recent content in Projects on Mohammed Khalilia</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019 Mohammed Khalilia</copyright>
     <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://mohammedkhalilia.com/project/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://mohammedkhalilia.com/project/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Amazon Comprehend Medical</title>
-      <link>http://mohammedkhalilia.com/project/comprehend-medical/</link>
+      <link>https://mohammedkhalilia.com/project/comprehend-medical/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://mohammedkhalilia.com/project/comprehend-medical/</guid>
+      <guid>https://mohammedkhalilia.com/project/comprehend-medical/</guid>
       <description>Comprehend Medical is a natural language processing (NLP) service that leverages state-of-the-art machine learning techniques for extracting relationships and entities including medical conditions, medications, treatment, test and procedures.
 Related Publications:
 End-to-end Joint Entity Extraction and Negation Detection for Clinical Text
@@ -29,56 +29,56 @@ Amazon Blog - Amazon Comprehend Medical</description>
     
     <item>
       <title>Cloud-based predictive modeling for asthma readmission</title>
-      <link>http://mohammedkhalilia.com/project/predictive-model-cloud/</link>
+      <link>https://mohammedkhalilia.com/project/predictive-model-cloud/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://mohammedkhalilia.com/project/predictive-model-cloud/</guid>
+      <guid>https://mohammedkhalilia.com/project/predictive-model-cloud/</guid>
       <description>The predictive modeling process is time consuming and requires clinical researchers to handle complex EHR data in restricted computational environments. To address this problem, we implemented a cloud-based predictive modeling system via a hybrid setup combining a secure private server with the Amazon Web Services (AWS) Elastic MapReduce platform. EHR data is preprocessed on a private server and the resulting event sequences are hosted on AWS. Based on user-specified configurations, an on-demand web service launches a cluster of Elastic Compute 2 (EC2) instances on AWS to perform feature selection and classification algorithms in a distributed fashion.</description>
     </item>
     
     <item>
       <title>Clustering patients using activity of daily living scores</title>
-      <link>http://mohammedkhalilia.com/project/adl-clustering/</link>
+      <link>https://mohammedkhalilia.com/project/adl-clustering/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://mohammedkhalilia.com/project/adl-clustering/</guid>
+      <guid>https://mohammedkhalilia.com/project/adl-clustering/</guid>
       <description>Stratification is a valuable technique for providing an insight on the structure of the patient population based on some features such as Activity of Daily Living (ADL) scores. Grouping patients can play an important role in designing clinical trials or improving care delivery. In this paper, we present a method for stratifying patients based on their ADL scores. Every patient is represented by a time series consisting of ADL scores recorded over a period of up to two years.</description>
     </item>
     
     <item>
       <title>Digital Slide Archive</title>
-      <link>http://mohammedkhalilia.com/project/digital-slide-archive/</link>
+      <link>https://mohammedkhalilia.com/project/digital-slide-archive/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://mohammedkhalilia.com/project/digital-slide-archive/</guid>
+      <guid>https://mohammedkhalilia.com/project/digital-slide-archive/</guid>
       <description>The goal of the ”Advanced Development of an Open-source Platform for Web- based Integrative Digital Image Analysis in Cancer” is to develop open-source integrative technologies to facilitate analysis of data provided by the National Cancer Institute’s The Cancer Genome Atlas (TCGA). Some of my responsibilities include:
  Developing annotation capabilities that allow users to markup image data and share and retrieve their markups, Assisting in transforming the current Cancer Digital Slide Archive currently hosted at Emory to an open-source software platform that enables other in- vestigators and institutions to deploy cloud-based infrastructure to manage, share and analyze their own imaging archives, Providing computational image analysis capabilities that enable users to characterize tissues and extract quantitative imaging biomarkers using image analysis algorithms, Developing integrative analysis dashboard to enable users to explore the relationships between quantitative descriptions of image data and clinical or genetic variables.</description>
     </item>
     
     <item>
       <title>Epilepsy treatment recommendation</title>
-      <link>http://mohammedkhalilia.com/project/treatment-recommendation/</link>
+      <link>https://mohammedkhalilia.com/project/treatment-recommendation/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://mohammedkhalilia.com/project/treatment-recommendation/</guid>
+      <guid>https://mohammedkhalilia.com/project/treatment-recommendation/</guid>
       <description>The aim is to build a reliable prediction model for predicting the optimal treatment of an epilepsy patient. The model will rely on an individual patient’s past history, and predict the treatment most likely to achieve a positive outcome. We are working with longitudinal data and thus, define index dates for the patients. Data from before the index date serves as input available at decision time, while data from after that point in time allows us to extract outcome values and characterize the treatment.</description>
     </item>
     
     <item>
       <title>Quantifying care coordination</title>
-      <link>http://mohammedkhalilia.com/project/care-coordination/</link>
+      <link>https://mohammedkhalilia.com/project/care-coordination/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://mohammedkhalilia.com/project/care-coordination/</guid>
+      <guid>https://mohammedkhalilia.com/project/care-coordination/</guid>
       <description>This research identifies specific care coordination activities used by Aging In Place (AIP) nurse care coordinators and home healthcare nurses when coordinating care for older community dwelling adults and suggests a method to quantify care coordination. A care coordination ontology was built based on activities extracted from 11,038 notes labeled with the Omaha Case Management category. From the parsed narrative notes of every patient, we mapped the extracted activities to the ontology, from which we computed problem profiles and quantified care coordination for all patients.</description>
     </item>
     
     <item>
       <title>Clinical predictive model deployment using FHIR web services</title>
-      <link>http://mohammedkhalilia.com/project/predictive-modeling-fhir/</link>
+      <link>https://mohammedkhalilia.com/project/predictive-modeling-fhir/</link>
       <pubDate>Sun, 01 Mar 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://mohammedkhalilia.com/project/predictive-modeling-fhir/</guid>
+      <guid>https://mohammedkhalilia.com/project/predictive-modeling-fhir/</guid>
       <description>Clinical predictive modeling involves two challenging tasks: model development and model deployment. In this paper we demonstrate a software architecture for developing and deploying clinical predictive models using web services via the Health Level 7 (HL7) Fast Healthcare Interoperability Resources (FHIR) standard. The services enable model development using electronic health records (EHRs) stored in OMOP CDM databases and model deployment for scoring individual patients through FHIR resources. The MIMIC2 ICU dataset and a synthetic outpatient dataset were transformed into OMOP CDM databases for predictive model development.</description>
     </item>
     

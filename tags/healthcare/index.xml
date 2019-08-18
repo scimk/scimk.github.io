@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Healthcare on Mohammed Khalilia</title>
-    <link>http://mohammedkhalilia.com/tags/healthcare/</link>
+    <link>https://mohammedkhalilia.com/tags/healthcare/</link>
     <description>Recent content in Healthcare on Mohammed Khalilia</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019 Mohammed Khalilia</copyright>
     <lastBuildDate>Sun, 01 Mar 2015 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://mohammedkhalilia.com/tags/healthcare/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://mohammedkhalilia.com/tags/healthcare/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Clinical predictive model deployment using FHIR web services</title>
-      <link>http://mohammedkhalilia.com/project/predictive-modeling-fhir/</link>
+      <link>https://mohammedkhalilia.com/project/predictive-modeling-fhir/</link>
       <pubDate>Sun, 01 Mar 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://mohammedkhalilia.com/project/predictive-modeling-fhir/</guid>
+      <guid>https://mohammedkhalilia.com/project/predictive-modeling-fhir/</guid>
       <description>Clinical predictive modeling involves two challenging tasks: model development and model deployment. In this paper we demonstrate a software architecture for developing and deploying clinical predictive models using web services via the Health Level 7 (HL7) Fast Healthcare Interoperability Resources (FHIR) standard. The services enable model development using electronic health records (EHRs) stored in OMOP CDM databases and model deployment for scoring individual patients through FHIR resources. The MIMIC2 ICU dataset and a synthetic outpatient dataset were transformed into OMOP CDM databases for predictive model development.</description>
     </item>
     

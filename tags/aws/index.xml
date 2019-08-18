@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Aws on Mohammed Khalilia</title>
-    <link>http://mohammedkhalilia.com/tags/aws/</link>
+    <link>https://mohammedkhalilia.com/tags/aws/</link>
     <description>Recent content in Aws on Mohammed Khalilia</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019 Mohammed Khalilia</copyright>
     <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://mohammedkhalilia.com/tags/aws/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://mohammedkhalilia.com/tags/aws/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Cloud-based predictive modeling for asthma readmission</title>
-      <link>http://mohammedkhalilia.com/project/predictive-model-cloud/</link>
+      <link>https://mohammedkhalilia.com/project/predictive-model-cloud/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://mohammedkhalilia.com/project/predictive-model-cloud/</guid>
+      <guid>https://mohammedkhalilia.com/project/predictive-model-cloud/</guid>
       <description>The predictive modeling process is time consuming and requires clinical researchers to handle complex EHR data in restricted computational environments. To address this problem, we implemented a cloud-based predictive modeling system via a hybrid setup combining a secure private server with the Amazon Web Services (AWS) Elastic MapReduce platform. EHR data is preprocessed on a private server and the resulting event sequences are hosted on AWS. Based on user-specified configurations, an on-demand web service launches a cluster of Elastic Compute 2 (EC2) instances on AWS to perform feature selection and classification algorithms in a distributed fashion.</description>
     </item>
     
