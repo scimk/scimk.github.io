@@ -22,15 +22,6 @@
     </item>
     
     <item>
-      <title>End-to-end Joint Entity Extraction and Negation Detection for Clinical Text</title>
-      <link>https://mohammedkhalilia.com/publication/negation-detection/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://mohammedkhalilia.com/publication/negation-detection/</guid>
-      <description>Abstract Negative medical findings are prevalent in clinical reports, yet discriminating them from positive findings remains a challenging task for information extraction. Most of the existing systems treat this task as a pipeline of two separate tasks, i.e., named entity recognition (NER) and rule-based negation detection. We consider this as a multi-task problem and present a novel end-to-end neural model to jointly extract entities and negations. We extend a standard hierarchical encoder-decoder NER model and first adopt a shared encoder followed by separate decoders for the two tasks.</description>
-    </item>
-    
-    <item>
       <title>Improving Hospital Mortality Prediction with Medical Named Entities and Multimodal Learning</title>
       <link>https://mohammedkhalilia.com/publication/predictive-model-mortality/</link>
       <pubDate>Mon, 03 Dec 2018 00:00:00 +0000</pubDate>
