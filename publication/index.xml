@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019 Mohammed Khalilia</copyright>
-    <lastBuildDate>Fri, 26 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Oct 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://mohammedkhalilia.com/publication/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Comprehend Medical: a Named Entity Recognition and Relationship Extraction Web Service</title>
+      <link>https://mohammedkhalilia.com/publication/comprehend-medical/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://mohammedkhalilia.com/publication/comprehend-medical/</guid>
+      <description>Abstract Comprehend Medical is a stateless and Health Insurance Portability and Accountability Act (HIPAA) eligible Named Entity Recognition (NER) and Relationship Extraction (RE) service launched under Amazon Web Services (AWS) trained using state-of-the-art deep learning models. Contrary to many existing open source tools, Comprehend Medical is scalable and does not require steep learning curve, dependencies, pipeline configurations, or installations. Currently, Comprehend Medical performs NER in five medical categories: Anatomy, Medical Condition, Medications, Protected Health Information (PHI) and Treatment, Test and Procedure (TTP).</description>
+    </item>
     
     <item>
       <title>Joint Entity Extraction and Assertion Detection for Clinical Text</title>

@@ -11,6 +11,20 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Comprehend Medical: a Named Entity Recognition and Relationship Extraction Web Service</title>
+      <link>https://mohammedkhalilia.com/publication/comprehend-medical/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://mohammedkhalilia.com/publication/comprehend-medical/</guid>
+      <description>
+
+&lt;h1 id=&#34;abstract&#34;&gt;Abstract&lt;/h1&gt;
+
+&lt;p&gt;Comprehend Medical is a stateless and Health Insurance Portability and Accountability Act (HIPAA) eligible Named Entity Recognition (NER) and Relationship Extraction (RE) service launched under Amazon Web Services (AWS) trained using state-of-the-art deep learning models. Contrary to many existing open source tools, Comprehend Medical is scalable and does not require steep learning curve, dependencies, pipeline configurations, or installations. Currently, Comprehend Medical performs NER in five medical categories: Anatomy, Medical Condition, Medications, Protected Health Information (PHI) and Treatment, Test and Procedure (TTP). Additionally, the service provides relationship extraction for the detected entities as well as contextual information such as negation and temporality in the form of traits. Comprehend Medical provides two Application Programming Interfaces (API): 1) the NERe API which returns all the extracted named entities, their traits and the relationships between them and 2) the PHId API which returns just the protected health information contained in the text. Furthermore, Comprehend Medical is accessible through AWS Console, Java and Python Software Development Kit (SDK), making it easier for non-developers and developers to use.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Joint Entity Extraction and Assertion Detection for Clinical Text</title>
       <link>https://mohammedkhalilia.com/publication/joint-entity-assertion-detection/</link>
       <pubDate>Fri, 26 Jul 2019 00:00:00 +0000</pubDate>
@@ -214,20 +228,6 @@
       <description>&lt;p&gt;Clinical predictive modeling involves two challenging tasks: model development and model deployment. In this paper we demonstrate a software architecture for developing and deploying clinical predictive models using web services via the Health Level 7 (HL7) Fast Healthcare Interoperability Resources (FHIR) standard. The services enable model development using electronic health records (EHRs) stored in OMOP CDM databases and model deployment for scoring individual patients through FHIR resources. The MIMIC2 ICU dataset and a synthetic outpatient dataset were transformed into OMOP CDM databases for predictive model development. The resulting predictive models are deployed as FHIR resources, which receive requests of patient information, perform prediction against the deployed predictive model and respond with prediction scores. To assess the practicality of this approach we evaluated the response and prediction time of the FHIR modeling web services. We found the system to be reasonably fast with one second total response time per patient prediction.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;https://mohammedkhalilia.com/img/predictive-model-fhir.jpg&#34; alt=&#34;alt text&#34; title=&#34;predictive-model-fhir&#34; /&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Relational Fuzzy Self-Organizing Maps for Cluster Visualization and Summarization</title>
-      <link>https://mohammedkhalilia.com/publication/frsom/</link>
-      <pubDate>Mon, 01 Dec 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://mohammedkhalilia.com/publication/frsom/</guid>
-      <description>
-
-&lt;h1 id=&#34;abstract&#34;&gt;Abstract&lt;/h1&gt;
-
-&lt;p&gt;The notion of Best-Matching Unit (BMU) in the proposed Fuzzy Relational Self-Organizing (FRSOM) algorithm is replaced by a membership function where every neuron has a certain degree of matching to an input object. The FRSOM is an extension of the relational self-organizing map. In the proposed FRSOM we incorporate a monotonically increasing fuzzifier and a monotonically decreasing neighborhood kernel. Initially, FRSOM assigns winning neurons. However, as time progresses adjacent neurons begin communicating and sharing information about the stimulus received. The amount of information being shared at a given time is governed by the fuzzifier and the number of neurons sharing information is controlled by the neighborhood kernel. Additionally, in this paper we show that FRSOM is the relational dual of Fuzzy Batch SOM (FBSOM) followed by experimental results comparing both FBSOM and FRSOM on synthetic datasets. Then we will demonstrate the visualization and summarization capabilities of FRSOM on two real relational datasets, Gene Ontology and a patient data consisting of Activity of Daily Living score trajectories.&lt;/p&gt;
 </description>
     </item>
     
